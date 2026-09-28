@@ -40,7 +40,7 @@ function displayTitle(x){
 function deadlineDisplay(x){
   if(x.lifecycle==='watch'&&lifecycleLabel(x)==='본공고 대기'){
     let m=String(x.d||'').match(/20\d{2}\.(\d{2})\.(\d{2})/);
-    return {label:'사전규격 종료',value:m?(Number(m[1])+'/'+Number(m[2])):'본공고 대기중'};
+    return {label:'사전규격 종료',value:m?(Number(m[1])+'/'+Number(m[2])+' 종료 · 본공고 아직 미게시'):'종료 · 본공고 아직 미게시'};
   }
   if(x.lifecycle==='watch'&&lifecycleLabel(x)==='반복발주 추적')return {label:'후속 공고',value:'추적 중'};
   return {label:x.deadlineType||'마감',value:x.d||'-'};
