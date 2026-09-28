@@ -26,13 +26,22 @@ const files=fs.existsSync(dataDir)?fs.readdirSync(dataDir).filter(x=>/^\d{4}-\d{
 if(!files.length) throw new Error('no daily research JSON');
 const latest=files.at(-1);
 const payload=JSON.parse(fs.readFileSync(path.join(dataDir,latest),'utf8'));
-for(const row of payload.new||[]){
-  for(const key of ['title','source','lifecycle']){
-    if(!String(row[key]||'').trim()) throw new Error(latest+': missing '+key+' for '+(row.title||'row'));
+const rows=[...(payload.new||[]),...(payload.updates||[])];
+const required=['source','amount','url','urlType','lifecycle','noticeNo','d','deadlineType','noticeType','title','a','task','why','f','q','j','n','h','t','bidMethod','bidMethodEvidence','peligoodFit','fitEvidence'];
+for(const row of rows){
+  for(const key of required){
+    if(row[key]===undefined||row[key]===null||(typeof row[key]==='string'&&!row[key].trim())){
+      throw new Error(latest+': missing '+key+' for '+(row.title||'row'));
+    }
   }
   if(['bid','pre-spec'].includes(row.lifecycle)){
     if(!/^https:\/\//i.test(String(row.url||''))) throw new Error(latest+': actionable item missing https URL: '+row.title);
     if(!['official','discovery','external'].includes(row.urlType)) throw new Error(latest+': invalid urlType: '+row.title);
   }
+  if(row.bidMethod==='가격입찰'&&(!row.participationStatus||!row.participationReason)){
+    throw new Error(latest+': price bid missing participation evidence: '+row.title);
+  }
 }
-console.log('Peligood project contract OK:',latest,(payload.new||[]).length,'new rows');
+const noticeNos=rows.map(row=>row.noticeNo);
+if(new Set(noticeNos).size!==noticeNos.length) throw new Error(latest+': duplicate noticeNo in daily changes');
+console.log('Peligood project contract OK:',latest,(payload.new||[]).length,'new rows,',(payload.updates||[]).length,'updates');

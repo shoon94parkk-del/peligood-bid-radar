@@ -1,0 +1,125 @@
+{
+  "updated": "2026-09-29",
+  "removeExpiredBefore": "2026-09-29T08:01:00+09:00",
+  "counts": {
+    "new": 0,
+    "totalValid": 24,
+    "bid": 14,
+    "preSpec": 1,
+    "plan": 0,
+    "watch": 9
+  },
+  "new": [],
+  "updates": [
+    {
+      "t": "watch",
+      "n": 0,
+      "h": 0,
+      "title": "온라인 전시체험관(VR) 위탁운영 용역 · 본공고 전환 추적",
+      "a": "국민건강보험공단",
+      "b": "3,850만원",
+      "amount": "3,850만원",
+      "d": "사전규격 의견마감 2026.09.28 · 본공고 전환 대기",
+      "deadlineType": "본공고 전환 Watch",
+      "noticeType": "사전규격 후속추적",
+      "noticeNo": "R26BD00278275",
+      "f": "매우 높음",
+      "why": "온라인 VR 전시체험관 운영·유지관리. VR 콘텐츠/시스템 운영 역량과 직접 연결되며 본공고 전환을 추적해야 함.",
+      "task": "온라인 전시체험관(VR) 위탁운영(2026.11.1~2027.12.31 예정)",
+      "q": "사전규격 기준 정보시스템유지관리서비스 직접생산확인 · 중소기업/소상공인 · SW사업자(컴퓨터관련서비스업) 요건 확인",
+      "j": "본공고 확인",
+      "url": "https://sujubut.com/bid/domestic/3466490/",
+      "urlType": "discovery",
+      "source": "G2B",
+      "lifecycle": "watch",
+      "bidMethod": "확인 필요",
+      "bidMethodEvidence": "사전규격 의견제출 종료 후 본공고 미확인. 본공고 전환 시 계약·평가방법 확인 필요.",
+      "peligoodFit": "핵심적합",
+      "fitEvidence": "VR 전시체험관 운영이 과업 그 자체로 페리굿의 XR 시스템 운영·유지보수 역량과 직접 일치."
+    },
+    {
+      "t": "watch",
+      "n": 0,
+      "h": 1,
+      "title": "2026년 VR 안전교육 콘텐츠 제작 및 찾아가는 VR 체험교육 운영 용역 후속·유사발주 추적",
+      "a": "한국토지주택공사(LH)",
+      "amount": "1억 4,221만 9,000원",
+      "d": "본공고 마감 · 후속발주 Watch",
+      "deadlineType": "유사사업 반복발주 Watch",
+      "noticeType": "반복발주기관 Watch",
+      "noticeNo": "LH-2026-VR-SAFETY-WATCH",
+      "f": "매우 높음",
+      "why": "VR 안전교육 콘텐츠 제작·체험교육 운영 후속발주 추적. 페리굿 핵심 수행영역.",
+      "task": "VR 안전교육 콘텐츠 제작 + 찾아가는 VR 체험교육 운영",
+      "q": "과거 공고 기준 비디오물제작업 + SW사업자(디지털콘텐츠개발서비스) + 중소기업 + 동영상제작서비스 직접생산확인",
+      "j": "후속 공고 시 확인",
+      "url": "https://www.bidpro.co.kr/n0_ipchal/konggo/svc/konggo_view.asp?num=3145241",
+      "urlType": "discovery",
+      "source": "LH",
+      "lifecycle": "watch",
+      "bidMethod": "확인 필요",
+      "bidMethodEvidence": "과거 본공고가 마감된 반복발주 Watch로, 신규 후속 공고 확인 시 계약·평가방법을 재판정.",
+      "peligoodFit": "핵심적합",
+      "fitEvidence": "VR 안전교육 콘텐츠 제작과 찾아가는 VR 체험교육 운영은 페리굿의 대표 안전·교육 XR 수행영역과 직접 일치."
+    }
+  ],
+  "promotions": [],
+  "removedExpired": [],
+  "movedToWatch": [
+    "R26BD00278275"
+  ],
+  "trackCounts": {
+    "publicProcurement": {
+      "new": 0,
+      "totalValid": 12
+    },
+    "university": {
+      "new": 0,
+      "totalValid": 9
+    },
+    "school": {
+      "new": 0,
+      "totalValid": 2
+    },
+    "private": {
+      "new": 0,
+      "totalValid": 1
+    }
+  },
+  "sourceNewCounts": {
+    "G2B": 0,
+    "D2B": 0,
+    "LH": 0,
+    "universityBoards": 0,
+    "schoolBoardsAndS2B": 0,
+    "privateBoards": 0
+  },
+  "urlCounts": {
+    "coveragePercent": 100,
+    "official": 13,
+    "discovery": 11
+  },
+  "peligoodFitCounts": {
+    "core": 19,
+    "adjacent": 5,
+    "conditional": 0,
+    "excludedFromDefault": 0
+  },
+  "bidMethodCounts": {
+    "price": 6,
+    "proposal": 7,
+    "proposalPresentation": 1,
+    "check": 10
+  },
+  "newPriceBids": 0,
+  "notes": [
+    "2026-09-29 08:01 KST 기준 공공조달·대학/산학협력단·초중고/교육청/S2B·민간기업/기관을 독립 트랙으로 재검색.",
+    "최근 24시간 신규 게시·재공고 가운데 페리굿 핵심적합 또는 인접적합으로 원문 핵심정보와 유효 마감을 함께 검증할 수 있는 신규 공고는 확인되지 않음.",
+    "온라인 전시체험관(VR) 위탁운영 용역 사전규격(R26BD00278275)은 의견제출 마감 후 본공고가 확인되지 않아 lifecycle='watch'로 전환.",
+    "기존 사전규격 8건과 금일 전환 1건의 사업명·기관명 조합을 역검색했으나 확인 가능한 본공고 전환은 0건.",
+    "가격입찰 6건의 낙찰 구조와 참가 제한 메모를 재점검했으며 신규 가격입찰은 0건.",
+    "D2B의 '실감형 디지털 전산장비 구매'는 세부 납품내역에서 XR/몰입형 콘텐츠·장비 여부를 확인할 수 없고 연천군 지역제한이 있어 기본 목록에서 제외.",
+    "대학 자체 게시판과 교육청·학교·S2B 변형 검색에서 유효 신규는 확인되지 않음.",
+    "공개 웹에서 검증 가능한 활성 민간 공고는 확인되지 않음. 폐쇄형 대기업 협력사·병원 벤더 포털은 지속 감시 채널로 유지."
+  ]
+}
