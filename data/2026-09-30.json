@@ -1,0 +1,221 @@
+{
+  "updated": "2026-09-30",
+  "executedAt": "2026-09-30T08:26:00+09:00",
+  "counts": {
+    "newOrPromoted": 4,
+    "totalValid": 24,
+    "bid": 14,
+    "preSpec": 1,
+    "plan": 0,
+    "watch": 9
+  },
+  "trackCounts": {
+    "publicProcurement": 2,
+    "universityIndustryAcademic": 1,
+    "schoolEducationS2B": 1,
+    "privateVerifiedActive": 0
+  },
+  "removedExpired": [
+    {
+      "noticeNo": "R26BK01713231-000",
+      "title": "2026년 실감형 콘텐츠 제작 지원 인프라 도입",
+      "reason": "입찰마감 2026.09.29 10:00 경과"
+    },
+    {
+      "noticeNo": "R26BK01737398-000",
+      "title": "SW·AI교육거점센터 VR e-스포츠 시스템 구매 2인 견적제출 안내 재공고",
+      "reason": "입찰마감 2026.09.29 10:00 경과"
+    },
+    {
+      "noticeNo": "202609101496821",
+      "title": "가평중학교 2026학년도 가상현실 스포츠 시스템 구입 소액수의 견적제출 안내공고",
+      "reason": "기존 공고 2026.09.29 14:00 마감 및 새 공고번호로 재공고"
+    }
+  ],
+  "newOrPromoted": [
+    {
+      "t": "active",
+      "n": 1,
+      "h": 0,
+      "title": "2026년 안전체험버스 VR 시뮬레이터 제작 용역",
+      "a": "한국광해광업공단",
+      "b": "4,500만원",
+      "amount": "4,500만원",
+      "d": "2026.10.13 10:00",
+      "deadlineType": "제안서·가격입찰서 제출 마감",
+      "noticeType": "입찰공고",
+      "noticeNo": "R26BK01748412-000",
+      "f": "매우 높음",
+      "why": "광산재해 안전체험버스용 VR 시뮬레이터 2대와 낙반·붕락·충돌재해 VR 콘텐츠 제작. 페리굿 산업안전 XR 핵심영역.",
+      "task": "안전체험버스 VR 시뮬레이터 2대 설계·제작 및 광산재해 VR 콘텐츠 구축",
+      "q": "SW사업자(디지털콘텐츠개발서비스 1469) + 산업디자인전문회사(종합/멀티미디어) + 동영상제작서비스 직접생산 + 교육훈련장비 직접생산 + 멀티미디어학습장치 공장등록 + 중소기업 · 공동수급/하도급 불가",
+      "j": "공동수급 불가",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01748412&bidPbancOrd=000",
+      "urlType": "official",
+      "source": "G2B",
+      "lifecycle": "bid",
+      "bidMethod": "제안서 필수",
+      "bidMethodEvidence": "본공고 확인: 제한경쟁·총액입찰·협상에 의한 계약이며 제안서와 가격입찰서를 2026.10.08~10.13 제출. 별도 PT 여부는 현재 확인 자료에서 확정되지 않아 '제안서 필수'로 분류.",
+      "peligoodFit": "핵심적합",
+      "fitEvidence": "VR 안전체험 시뮬레이터와 산업재해 콘텐츠를 함께 제작하는 사업으로 페리굿의 산업안전·직무훈련 XR 수행영역과 직접 일치."
+    },
+    {
+      "t": "active",
+      "n": 1,
+      "h": 0,
+      "title": "가평중학교 2026학년도 가상현실 스포츠 시스템 구입 소액수의 견적제출 안내공고",
+      "a": "경기가평중학교",
+      "b": "3,950만원",
+      "amount": "3,950만원",
+      "d": "2026.10.06 09:00",
+      "deadlineType": "전자견적 마감",
+      "noticeType": "학교 물품 소액수의 재공고",
+      "noticeNo": "202609291538514",
+      "f": "매우 높음",
+      "why": "기존 9/29 마감 건 종료 후 같은 사업이 새 공고번호로 재공고됨. 학교 가상현실 스포츠 시스템 구매로 페리굿 XR 교육·체험장비 납품과 직접 연결.",
+      "task": "가상현실 스포츠 시스템 1식 구매·설치",
+      "q": "소액수의 전자견적 · 낙찰하한율 88% · 공개 목록상 경기 지역표시 · 학습교구 분류 · 세부 지역제한/제품등록/직접생산 요건 원문 최종 확인",
+      "j": "원문 확인",
+      "url": "https://www.bidpro.co.kr/n0_ipchal/konggo/item/konggo_view.asp?num=5499339",
+      "urlType": "discovery",
+      "source": "학교/교육기관",
+      "lifecycle": "bid",
+      "bidMethod": "가격입찰",
+      "bidMethodEvidence": "전자입찰·수의(소액), 낙찰하한율 88%로 가격견적 경쟁. 별도 제안서/PT 기술점수 경쟁은 확인되지 않음.",
+      "participationStatus": "확인 필요",
+      "participationReason": "재공고로 10/6 09:00까지 투찰 가능. 다만 공개 목록에 경기 지역표시가 있어 실제 지역제한과 학습교구/제품 자격을 원문에서 최종 대조해야 함.",
+      "peligoodFit": "핵심적합",
+      "fitEvidence": "가상현실 스포츠 시스템 자체가 구매대상으로 학교 체험형 VR 시스템 공급·설치 역량과 직접 일치."
+    },
+    {
+      "t": "active",
+      "n": 1,
+      "h": 0,
+      "title": "2026학년도 장애학생 에듀테크 및 진로 체험 프로젝트 「오마이잡 V7」 행사 운영",
+      "a": "한경국립대학교",
+      "b": "1억원",
+      "amount": "1억원",
+      "d": "2026.10.12 14:00",
+      "deadlineType": "제안서·가격입찰서 제출 마감",
+      "noticeType": "입찰공고",
+      "noticeNo": "R26BK01747585-000",
+      "f": "매우 높음",
+      "why": "첨부 공고문이 '장애학생을 위한 메타버스 기반 진로융합 프로젝트'로 명시. 장애학생 체험·교육 분야와 메타버스 운영 경험이 직접 맞닿는 사업.",
+      "task": "장애학생 대상 메타버스 기반 에듀테크·진로체험 프로젝트 기획 및 운영",
+      "q": "기타자유업(9999) · 중소기업/소상공인 · 기타행사기획및대행서비스 직접생산 · 최근 3년 유사과업 실적 · 공동수급/하도급 불가",
+      "j": "공동수급 불가",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01747585&bidPbancOrd=000",
+      "urlType": "official",
+      "source": "G2B",
+      "lifecycle": "bid",
+      "bidMethod": "제안서 필수",
+      "bidMethodEvidence": "협상에 의한 계약. 가격입찰서와 기술평가 제안서를 모두 제출하며 평가위원회 서면 기술평가+가격평가로 우선협상대상자 선정.",
+      "peligoodFit": "핵심적합",
+      "fitEvidence": "메타버스 기반 장애학생 진로융합 체험·교육 프로젝트로 페리굿의 장애체험·몰입형 교육/XR 콘텐츠 사업영역과 직접 연결."
+    },
+    {
+      "t": "watch",
+      "n": 1,
+      "h": 0,
+      "title": "복합발전 VR SPACE 실습장비 구매 · 후속 재공고 추적",
+      "a": "한국발전교육원",
+      "b": "추정가격 4,730만원",
+      "amount": "추정가격 4,730만원",
+      "d": "최근 재공고 2026.09.29 마감 · 후속 재공고 추적",
+      "deadlineType": "반복발주 Watch",
+      "noticeType": "반복 재공고 Watch",
+      "noticeNo": "KEPCO-G142600027-WATCH",
+      "f": "매우 높음",
+      "why": "복합발전 교육용 VR SPACE 실습장비 구매가 9월 중 여러 차례 반복 공고·재공고됨. 최신 G142600027도 9/29 마감되어 다음 재공고 가능성을 우선 추적.",
+      "task": "복합발전 VR SPACE 실습장비 구매·납품",
+      "q": "과거 공고 기준 한국전력 전자조달 해당품목 입찰참가자격 등록 + G2B 경쟁입찰 등록 · 최신 재공고 시 규격/낙찰방식 재확인",
+      "j": "과거 공고 기준 공동수급 여부 원문 재확인",
+      "url": "https://bidpro.co.kr/n0_ipchal/konggo/item/konggo_view.asp?num=5497156",
+      "urlType": "discovery",
+      "source": "한전전자조달",
+      "lifecycle": "watch",
+      "bidMethod": "확인 필요",
+      "bidMethodEvidence": "최신 재공고가 9/29 마감되어 현재는 투찰 불가. 후속 재공고가 게시되면 낙찰방법·규격심사 여부를 다시 판정.",
+      "peligoodFit": "핵심적합",
+      "fitEvidence": "복합발전 교육용 VR 실습장비가 직접 구매대상으로 페리굿의 직무훈련형 XR 시스템 통합납품과 직접 일치."
+    }
+  ],
+  "conditionalCandidates": [
+    {
+      "source": "G2B",
+      "noticeNo": "R26BK01749097-000",
+      "title": "건국대학교 [실감미디어혁신융합대학] 2026 실감미디어 창업동아리",
+      "agency": "건국대학교 산학협력단",
+      "deadline": "2026.10.12 10:00",
+      "amount": "7,000만원",
+      "reason": "실감미디어 사업단 공고이나 현재 공개 정보만으로는 실제 XR 콘텐츠 제작·구축 비중보다 창업동아리 운영 성격이 강할 가능성이 있어 기본 목록에는 미포함. RFP 세부과업 재확인 후보.",
+      "url": "https://sujubut.com/bid/domestic/3472001/"
+    }
+  ],
+  "fitCounts": {
+    "core": 19,
+    "adjacent": 5,
+    "conditional": 1
+  },
+  "bidMethodCounts": {
+    "price": 5,
+    "proposal": 8,
+    "proposalPresentation": 1,
+    "check": 10
+  },
+  "priceOnly": [
+    {
+      "noticeNo": "R26BK01742837-000",
+      "title": "VR 교육용 장비 구매",
+      "agency": "(사)한국방사선진흥협회",
+      "deadline": "2026.10.02 13:00",
+      "participationStatus": "준비하면 가능",
+      "participationReason": "지역·업종 제한은 없으며 VR 장비 공급 규격과 직찰 참가서류를 맞추면 참여 가능성이 높음. 정확한 제조사/정품증빙 요구는 첨부 규격서 최종 확인 필요.",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01742837&bidPbancOrd=000"
+    },
+    {
+      "noticeNo": "R26BK01744067-000",
+      "title": "의료기기 RA 심사 대응 STAGE2 VR 콘텐츠 개발 용역",
+      "agency": "상지대학교 산학협력단",
+      "deadline": "2026.10.07 15:00",
+      "participationStatus": "준비하면 가능",
+      "participationReason": "VR 콘텐츠 개발 역량은 직접 부합. 직찰 및 1단계 규격/제출서류를 충족해야 하므로 첨부 공고문 기준 서류 준비 필요.",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01744067&bidPbancOrd=000"
+    },
+    {
+      "noticeNo": "R26BK01739262-000",
+      "title": "[디지털] XR/VR/PC 기반 반도체 실습 프로그램",
+      "agency": "조선이공대학교 산학협력단",
+      "deadline": "2026.10.08 14:00",
+      "participationStatus": "확인 필요",
+      "participationReason": "XR 교육 수행역량은 부합하지만 최근 3년 유사실적 약 5억원 및 소프트웨어 관련 직접생산/자격 요건이 제시된 것으로 확인되어 페리굿 보유 증빙과 대조 필요.",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01739262&bidPbancOrd=000"
+    },
+    {
+      "noticeNo": "R26BK01739223-000",
+      "title": "[디지털] FaradayXR 반도체 공정 XR 시스템 구입",
+      "agency": "조선이공대학교 산학협력단",
+      "deadline": "2026.10.08 14:00",
+      "participationStatus": "확인 필요",
+      "participationReason": "XR 시스템 역량은 부합하지만 유사실적 5억원 이상, 패키지SW 관련 자격, 사전 규격검토 요건을 페리굿이 충족하는지 확인 필요.",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01739223&bidPbancOrd=000"
+    },
+    {
+      "noticeNo": "202609291538514",
+      "title": "가평중학교 2026학년도 가상현실 스포츠 시스템 구입 소액수의 견적제출 안내공고",
+      "agency": "경기가평중학교",
+      "deadline": "2026.10.06 09:00",
+      "participationStatus": "확인 필요",
+      "participationReason": "재공고로 10/6 09:00까지 투찰 가능. 다만 공개 목록에 경기 지역표시가 있어 실제 지역제한과 학습교구/제품 자격을 원문에서 최종 대조해야 함.",
+      "url": "https://www.bidpro.co.kr/n0_ipchal/konggo/item/konggo_view.asp?num=5499339"
+    }
+  ],
+  "notes": [
+    "공공조달/대학·산학협력단/초중고·교육청·S2B/민간기업·민간기관 4개 트랙으로 분리 검색.",
+    "한국광해광업공단 안전체험버스 VR 시뮬레이터는 사전규격 R26BD00270107에서 본공고 R26BK01748412-000으로 승격.",
+    "가평중학교 가상현실 스포츠 시스템은 기존 9/29 마감 공고를 제거하고 9/29 17:00 개시·10/6 09:00 마감의 새 공고번호 202609291538514로 교체.",
+    "한경국립대학교 오마이잡 V7은 첨부 문서가 장애학생 메타버스 기반 진로융합 프로젝트임을 확인해 핵심적합으로 신규 반영.",
+    "한국발전교육원 복합발전 VR SPACE 실습장비는 9월 중 반복 공고·재공고 후 최신 건도 9/29 마감되어 후속 재공고 Watch로 추가.",
+    "민간기업/민간기관 공개 웹 검색에서 2026-09-30 08:26 KST 기준 페리굿 핵심·인접적합으로 검증 가능한 신규 활성 공고는 추가 확인하지 못함."
+  ]
+}
