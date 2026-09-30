@@ -1,0 +1,121 @@
+{
+  "updated": "2026-10-01",
+  "executedAt": "2026-10-01T07:55:00+09:00",
+  "counts": {
+    "newIncluded": 0,
+    "lifecycleTransitions": 1,
+    "totalValid": 24,
+    "bid": 15,
+    "preSpec": 0,
+    "plan": 0,
+    "watch": 9
+  },
+  "trackCounts": {
+    "publicProcurementIncluded": 0,
+    "universityIndustryAcademicIncluded": 0,
+    "schoolEducationS2BIncluded": 0,
+    "privateVerifiedActiveIncluded": 0
+  },
+  "lifecycleTransitions": [
+    {
+      "noticeNo": "R26BD00277023",
+      "title": "댐 진단 현장 맞춤형 VR 교육영상 제작 용역",
+      "from": "사전규격 진행중",
+      "to": "본공고 대기",
+      "reason": "사전규격 의견제출이 2026-09-30 23:59 종료됐고 2026-10-01 07:55 기준 본공고 미확인"
+    }
+  ],
+  "discoveredButExcluded": [
+    {
+      "noticeNo": "R26BK01751858-000",
+      "title": "보행형 다목적관리기 XR 콘텐츠 개발 용역",
+      "agency": "농촌진흥청 농촌인적자원개발센터",
+      "amount": "3,800만원",
+      "deadline": "2026-10-01 12:00",
+      "reason": "XR 핵심적합이지만 전자시담·수의계약(수의시담)이며 참가자격 등록마감이 2026-09-30 18:00로 이미 경과. 신규 공개경쟁 참여기회가 아니어서 기본 사이트 제외.",
+      "url": "https://sujubut.com/bid/domestic/3475174/"
+    }
+  ],
+  "fitCounts": {
+    "core": 18,
+    "adjacent": 6,
+    "conditional": 0
+  },
+  "bidMethodCounts": {
+    "price": 5,
+    "proposal": 8,
+    "proposalPresentation": 2,
+    "check": 9
+  },
+  "priceOnly": [
+    {
+      "noticeNo": "R26BK01742837-000",
+      "title": "VR 교육용 장비 구매",
+      "agency": "(사)한국방사선진흥협회",
+      "deadline": "2026.10.02 13:00",
+      "participationStatus": "준비하면 가능",
+      "participationReason": "지역·업종 제한은 없으며 VR 장비 공급 규격과 직찰 참가서류를 맞추면 참여 가능성이 높음. 정확한 제조사/정품증빙 요구는 첨부 규격서 최종 확인 필요.",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01742837&bidPbancOrd=000"
+    },
+    {
+      "noticeNo": "R26BK01744067-000",
+      "title": "의료기기 RA 심사 대응 STAGE2 VR 콘텐츠 개발 용역",
+      "agency": "상지대학교 산학협력단",
+      "deadline": "2026.10.07 15:00",
+      "participationStatus": "준비하면 가능",
+      "participationReason": "VR 콘텐츠 개발 역량은 직접 부합. 직찰 및 1단계 규격/제출서류를 충족해야 하므로 첨부 공고문 기준 서류 준비 필요.",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01744067&bidPbancOrd=000"
+    },
+    {
+      "noticeNo": "R26BK01739262-000",
+      "title": "[디지털] XR/VR/PC 기반 반도체 실습 프로그램",
+      "agency": "조선이공대학교 산학협력단",
+      "deadline": "2026.10.08 14:00",
+      "participationStatus": "확인 필요",
+      "participationReason": "XR 교육 수행역량은 부합하지만 최근 3년 유사실적 약 5억원 및 소프트웨어 관련 직접생산/자격 요건이 제시된 것으로 확인되어 페리굿 보유 증빙과 대조 필요.",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01739262&bidPbancOrd=000"
+    },
+    {
+      "noticeNo": "R26BK01739223-000",
+      "title": "[디지털] FaradayXR 반도체 공정 XR 시스템 구입",
+      "agency": "조선이공대학교 산학협력단",
+      "deadline": "2026.10.08 14:00",
+      "participationStatus": "확인 필요",
+      "participationReason": "XR 시스템 역량은 부합하지만 유사실적 5억원 이상, 패키지SW 관련 자격, 사전 규격검토 요건을 페리굿이 충족하는지 확인 필요.",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01739223&bidPbancOrd=000"
+    },
+    {
+      "noticeNo": "202609291538514",
+      "title": "가평중학교 2026학년도 가상현실 스포츠 시스템 구입 소액수의 견적제출 안내공고",
+      "agency": "경기가평중학교",
+      "deadline": "2026.10.06 09:00",
+      "participationStatus": "확인 필요",
+      "participationReason": "재공고로 10/6 09:00까지 투찰 가능. 다만 공개 목록에 경기 지역표시가 있어 실제 지역제한과 학습교구/제품 자격을 원문에서 최종 대조해야 함.",
+      "url": "https://www.bidpro.co.kr/n0_ipchal/konggo/item/konggo_view.asp?num=5499339"
+    }
+  ],
+  "channelsChecked": [
+    "G2B/나라장터 본공고·사전규격·발주계획",
+    "G2BPlus 최근 공고 목록 교차확인",
+    "수주벗·비드프로·조달엔·BLUE JODAL 교차검색",
+    "KOBEC 방송미디어장비 사전규격",
+    "대학·산학협력단 자체 입찰 게시판",
+    "초중고·교육청·S2B/학교장터 공개 검색",
+    "한전/발전사·공기업 자체조달 공개 검색",
+    "협회·재단·민간기업 공개 RFP/입찰 검색"
+  ],
+  "watchRecheck": [
+    "VR 기반 선체배관 용접 실습 시뮬레이터 구매",
+    "2026년 신규산업안전감독관 실감형(VR) 콘텐츠 및 VR기반 교육과정개발 용역",
+    "[앵커] 2차년도 경복대학교 안전보건과 공용장비 VR 구매",
+    "친환경 도장 공정 실습 시뮬레이터 구매",
+    "강원랜드 스마트(VR·AI) 안전보건교육 동영상 제작",
+    "댐 진단 현장 맞춤형 VR 교육영상 제작 용역"
+  ],
+  "notes": [
+    "10/1 오전 예약조건을 수동 실행. 4개 트랙을 분리 검색했으나 신규로 기본목록에 넣을 수 있는 공개경쟁 핵심/인접적합 공고는 07:55 기준 추가 확인하지 못함.",
+    "농촌진흥청 보행형 다목적관리기 XR 콘텐츠 개발은 새로 발견했지만 전자시담·수의계약이며 참가등록 마감이 지난 지정 수의시담 성격이라 기본 목록에서 제외.",
+    "국토안전관리원 댐 진단 VR 교육영상은 사전규격 종료에 따라 본공고 대기 Watch로 전환.",
+    "10/1 10:00 마감인 한국체육대학교 교육 전시 콘텐츠 고도화 및 경찰청 가상현실 심폐소생술 기기 구매는 07:55 실행시점 기준 아직 유효해 유지."
+  ]
+}
