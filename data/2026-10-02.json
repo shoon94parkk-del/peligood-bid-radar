@@ -1,0 +1,143 @@
+{
+  "updated": "2026-10-02",
+  "executedAt": "2026-10-02T07:42:49+09:00",
+  "counts": {
+    "newIncluded": 1,
+    "lifecycleTransitions": 1,
+    "totalValid": 23,
+    "bid": 16,
+    "preSpec": 0,
+    "plan": 0,
+    "watch": 7
+  },
+  "trackCounts": {
+    "publicProcurementIncluded": 1,
+    "universityIndustryAcademicIncluded": 0,
+    "schoolEducationS2BIncluded": 0,
+    "privateVerifiedActiveIncluded": 0
+  },
+  "lifecycleTransitions": [
+    {
+      "previousNoticeNo": "R26BD00277023",
+      "noticeNo": "R26BK01753370-000",
+      "title": "댐 진단 현장 맞춤형 VR 교육영상 제작 용역",
+      "from": "본공고 대기",
+      "to": "입찰 진행중",
+      "reason": "2026-10-01 18:05 정식 본공고 게시 확인"
+    }
+  ],
+  "removedOrExcluded": [
+    {
+      "noticeNo": "R26BK01753420-000",
+      "title": "양주 회암사지 XR망원경 구입",
+      "reason": "전자시담·수의계약이며 참가자격 등록마감이 2026-10-01 18:00로 이미 경과한 지정 시담 건. 10/2 현재 신규 공개경쟁 참여기회가 아니어서 기본목록 제거."
+    },
+    {
+      "noticeNo": "R26BK01743148-001 / R26BK01743693-001",
+      "title": "선린대학교 가상현실 인체/해부학 프로그램 구매",
+      "reason": "VR 핵심적합·가격경쟁형 공고이나 2026-10-01 14:00 투찰마감이 이미 경과해 현재 목록 미포함."
+    }
+  ],
+  "fitCounts": {
+    "core": 18,
+    "adjacent": 5,
+    "conditional": 0
+  },
+  "bidMethodCounts": {
+    "price": 7,
+    "proposal": 7,
+    "proposalPresentation": 2,
+    "check": 7
+  },
+  "priceOnly": [
+    {
+      "noticeNo": "R26BK01752627-000",
+      "title": "가상현실 심폐소생술 기기 구매",
+      "agency": "경찰청",
+      "deadline": "2026.10.14 10:00",
+      "participationStatus": "확인 필요",
+      "participationReason": "VR CPR 납품 역량은 직접 부합하지만 멀티미디어학습장치 제조물품 등록, 직접생산확인증명서, 중소기업 요건을 페리굿이 실제 보유했는지 확인 필요.",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01752627&bidPbancOrd=000"
+    },
+    {
+      "noticeNo": "R26BK01742837-000",
+      "title": "VR 교육용 장비 구매",
+      "agency": "(사)한국방사선진흥협회",
+      "deadline": "2026.10.02 13:00",
+      "participationStatus": "확인 필요",
+      "participationReason": "개찰은 10/2 14:00이지만 공개 일정상 입찰보증금 접수마감이 10/1 11:00에 이미 경과. 이미 보증·참가서류를 처리했는지 확인해야 실제 참여 가능.",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01742837&bidPbancOrd=000"
+    },
+    {
+      "noticeNo": "R26BK01744067-000",
+      "title": "의료기기 RA 심사 대응 STAGE2 VR 콘텐츠 개발 용역",
+      "agency": "상지대학교 산학협력단",
+      "deadline": "2026.10.07 15:00",
+      "participationStatus": "준비하면 가능",
+      "participationReason": "VR 콘텐츠 개발 역량은 직접 부합. 직찰 및 1단계 규격/제출서류를 충족해야 하므로 첨부 공고문 기준 서류 준비 필요.",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01744067&bidPbancOrd=000"
+    },
+    {
+      "noticeNo": "R26BK01739262-000",
+      "title": "[디지털] XR/VR/PC 기반 반도체 실습 프로그램",
+      "agency": "조선이공대학교 산학협력단",
+      "deadline": "2026.10.08 14:00",
+      "participationStatus": "확인 필요",
+      "participationReason": "XR 교육 수행역량은 부합하지만 최근 3년 유사실적 약 5억원 및 소프트웨어 관련 직접생산/자격 요건이 제시된 것으로 확인되어 페리굿 보유 증빙과 대조 필요.",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01739262&bidPbancOrd=000"
+    },
+    {
+      "noticeNo": "R26BK01739223-000",
+      "title": "[디지털] FaradayXR 반도체 공정 XR 시스템 구입",
+      "agency": "조선이공대학교 산학협력단",
+      "deadline": "2026.10.08 14:00",
+      "participationStatus": "확인 필요",
+      "participationReason": "XR 시스템 역량은 부합하지만 유사실적 5억원 이상, 패키지SW 관련 자격, 사전 규격검토 요건을 페리굿이 충족하는지 확인 필요.",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01739223&bidPbancOrd=000"
+    },
+    {
+      "noticeNo": "R26BK01747552-000",
+      "title": "[앵커] 2차년도 경복대학교 안전보건과 공용장비 VR 구매",
+      "agency": "경복대학교 산학협력단",
+      "deadline": "2026.10.07 10:00",
+      "participationStatus": "준비하면 가능",
+      "participationReason": "지역제한과 별도 업종제한은 없고 VR 장치 등록 + SW사업자 자격 + 제조사/공식 공급망 및 A/S 증빙을 준비하면 참여 가능성이 높음. 실제 보유 등록상태는 최종 확인 필요.",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01747552&bidPbancOrd=000"
+    },
+    {
+      "noticeNo": "202609291538514",
+      "title": "가평중학교 2026학년도 가상현실 스포츠 시스템 구입 소액수의 견적제출 안내공고",
+      "agency": "경기가평중학교",
+      "deadline": "2026.10.06 09:00",
+      "participationStatus": "확인 필요",
+      "participationReason": "재공고로 10/6 09:00까지 투찰 가능. 다만 공개 목록에 경기 지역표시가 있어 실제 지역제한과 학습교구/제품 자격을 원문에서 최종 대조해야 함.",
+      "url": "https://www.bidpro.co.kr/n0_ipchal/konggo/item/konggo_view.asp?num=5499339"
+    }
+  ],
+  "channelsChecked": [
+    "G2B/나라장터 당일 신규·재공고·사전규격·발주계획",
+    "기존 Watch 사업명별 본공고 전환 역검색",
+    "국토안전관리원 자체 입찰정보",
+    "KOBEC 방송미디어장비 관리시스템",
+    "대학·산학협력단 자체/나라장터 공고",
+    "초중고·교육청·S2B/학교장터 공개 검색",
+    "한전/발전사·공기업 자체조달 공개 검색",
+    "협회·재단·민간기업 공개 RFP/입찰 검색",
+    "조달엔·수주벗·비드프로·BLUE JODAL·산군 등 교차검색"
+  ],
+  "watchRecheck": [
+    "VR 기반 선체배관 용접 실습 시뮬레이터 구매",
+    "2026년 신규산업안전감독관 실감형(VR) 콘텐츠 및 VR기반 교육과정개발 용역",
+    "강원랜드 스마트(VR·AI) 안전보건교육 동영상 제작",
+    "강원대학교 하이브리드 스튜디오 XR 고도화 사업",
+    "친환경 도장 공정 실습 시뮬레이터 구매",
+    "복합발전 VR SPACE 실습장비 구매 후속 재공고"
+  ],
+  "notes": [
+    "10/2 07:42 KST 예약조건 수동 실행.",
+    "국토안전관리원 댐 진단 현장 맞춤형 VR 교육영상 제작은 10/1 18:05 본공고 R26BK01753370-000 게시 확인. 제한경쟁·협상에 의한 계약, 입찰마감 10/13 12:00, 참가자격 등록 10/12 18:00, 공동이행 허용으로 본공고 승격.",
+    "양주시 XR망원경은 10/2 12:00 시담 마감이지만 전자시담·수의계약이며 참가자격 등록이 10/1 18:00 종료되어 페리굿이 오늘 새로 진입할 수 있는 공개공고가 아니므로 제거.",
+    "한국방사선진흥협회 VR 교육용 장비 구매는 10/2 개찰 예정이나 공개 일정상 입찰보증금 접수마감이 10/1 11:00에 경과하여 participationStatus를 확인 필요로 강화.",
+    "현재 공개 웹에서 검증 가능한 신규 활성 민간기업 자체 XR/VR RFP는 추가 확인하지 못함."
+  ]
+}
