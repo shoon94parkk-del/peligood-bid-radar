@@ -1,28 +1,37 @@
 {
   "updated": "2026-10-01",
-  "executedAt": "2026-10-01T07:55:00+09:00",
+  "executedAt": "2026-10-01T21:20:44+09:00",
   "counts": {
-    "newIncluded": 0,
-    "lifecycleTransitions": 1,
+    "newIncluded": 3,
+    "lifecycleTransitions": 2,
     "totalValid": 24,
-    "bid": 15,
+    "bid": 16,
     "preSpec": 0,
     "plan": 0,
-    "watch": 9
+    "watch": 8
   },
   "trackCounts": {
-    "publicProcurementIncluded": 0,
-    "universityIndustryAcademicIncluded": 0,
+    "publicProcurementIncluded": 2,
+    "universityIndustryAcademicIncluded": 1,
     "schoolEducationS2BIncluded": 0,
     "privateVerifiedActiveIncluded": 0
   },
   "lifecycleTransitions": [
     {
-      "noticeNo": "R26BD00277023",
-      "title": "댐 진단 현장 맞춤형 VR 교육영상 제작 용역",
-      "from": "사전규격 진행중",
-      "to": "본공고 대기",
-      "reason": "사전규격 의견제출이 2026-09-30 23:59 종료됐고 2026-10-01 07:55 기준 본공고 미확인"
+      "previousNoticeNo": "R26BD00276764",
+      "noticeNo": "R26BK01747552-000",
+      "title": "[앵커] 2차년도 경복대학교 안전보건과 공용장비 VR 구매",
+      "from": "본공고 대기",
+      "to": "입찰 진행중",
+      "reason": "9/29 정식 본공고 게시 확인"
+    },
+    {
+      "previousNoticeNo": "R26BK01732058-000",
+      "noticeNo": "R26BK01752627-000",
+      "title": "가상현실 심폐소생술 기기 구매",
+      "from": "10/1 오전 마감",
+      "to": "재공고",
+      "reason": "10/1 13:37 새 공고번호로 재공고 확인"
     }
   ],
   "discoveredButExcluded": [
@@ -37,17 +46,26 @@
     }
   ],
   "fitCounts": {
-    "core": 18,
-    "adjacent": 6,
+    "core": 19,
+    "adjacent": 5,
     "conditional": 0
   },
   "bidMethodCounts": {
-    "price": 5,
-    "proposal": 8,
+    "price": 7,
+    "proposal": 6,
     "proposalPresentation": 2,
     "check": 9
   },
   "priceOnly": [
+    {
+      "noticeNo": "R26BK01752627-000",
+      "title": "가상현실 심폐소생술 기기 구매",
+      "agency": "경찰청",
+      "deadline": "2026.10.14 10:00",
+      "participationStatus": "확인 필요",
+      "participationReason": "VR CPR 납품 역량은 직접 부합하지만 멀티미디어학습장치 제조물품 등록, 직접생산확인증명서, 중소기업 요건을 페리굿이 실제 보유했는지 확인 필요.",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01752627&bidPbancOrd=000"
+    },
     {
       "noticeNo": "R26BK01742837-000",
       "title": "VR 교육용 장비 구매",
@@ -85,6 +103,15 @@
       "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01739223&bidPbancOrd=000"
     },
     {
+      "noticeNo": "R26BK01747552-000",
+      "title": "[앵커] 2차년도 경복대학교 안전보건과 공용장비 VR 구매",
+      "agency": "경복대학교 산학협력단",
+      "deadline": "2026.10.07 10:00",
+      "participationStatus": "준비하면 가능",
+      "participationReason": "지역제한과 별도 업종제한은 없고 VR 장치 등록 + SW사업자 자격 + 제조사/공식 공급망 및 A/S 증빙을 준비하면 참여 가능성이 높음. 실제 보유 등록상태는 최종 확인 필요.",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01747552&bidPbancOrd=000"
+    },
+    {
       "noticeNo": "202609291538514",
       "title": "가평중학교 2026학년도 가상현실 스포츠 시스템 구입 소액수의 견적제출 안내공고",
       "agency": "경기가평중학교",
@@ -116,6 +143,132 @@
     "10/1 오전 예약조건을 수동 실행. 4개 트랙을 분리 검색했으나 신규로 기본목록에 넣을 수 있는 공개경쟁 핵심/인접적합 공고는 07:55 기준 추가 확인하지 못함.",
     "농촌진흥청 보행형 다목적관리기 XR 콘텐츠 개발은 새로 발견했지만 전자시담·수의계약이며 참가등록 마감이 지난 지정 수의시담 성격이라 기본 목록에서 제외.",
     "국토안전관리원 댐 진단 VR 교육영상은 사전규격 종료에 따라 본공고 대기 Watch로 전환.",
-    "10/1 10:00 마감인 한국체육대학교 교육 전시 콘텐츠 고도화 및 경찰청 가상현실 심폐소생술 기기 구매는 07:55 실행시점 기준 아직 유효해 유지."
-  ]
+    "10/1 10:00 마감인 한국체육대학교 교육 전시 콘텐츠 고도화 및 경찰청 가상현실 심폐소생술 기기 구매는 07:55 실행시점 기준 아직 유효해 유지.",
+    "21:20 KST 예약조건 재실행: 경복대학교 안전보건과 공용장비 VR 구매가 사전규격 R26BD00276764에서 본공고 R26BK01747552-000으로 전환된 것을 확인.",
+    "경복대 본공고는 일반경쟁·총액입찰·적격심사, 낙찰하한율 86.245%로 제안서/PT 경쟁 없이 가격+적격심사 구조여서 가격입찰로 분류.",
+    "경찰청 가상현실 심폐소생술 기기 구매는 10/1 오전 기존 공고 종료 후 13:37 R26BK01752627-000으로 다시 재공고됨. 규격 적격 후 예가 내 최저가 구조로 가격입찰로 재분류.",
+    "양주시 양주 회암사지 XR망원경 구입 R26BK01753420-000을 당일 신규 발견. 7,040만원, 10/2 12:00 마감. 공개 목록상 수의계약이나 전자견적/전자시담 세부가 미확정이라 입찰방식은 확인 필요로 유지.",
+    "한국체육대학교 교육 전시 콘텐츠 고도화 및 전시연출 용역은 10/1 10:00 마감되어 기본 목록에서 제거."
+  ],
+  "removedExpired": [
+    {
+      "noticeNo": "R26BK01679678-000",
+      "title": "2026학년도 국립대학육성사업 교육 전시 콘텐츠 고도화 및 전시연출 용역",
+      "reason": "2026-10-01 10:00 입찰마감 경과"
+    }
+  ],
+  "newOrPromoted": [
+    {
+      "t": "active",
+      "n": 1,
+      "h": 0,
+      "title": "가상현실 심폐소생술 기기 구매",
+      "a": "경찰청",
+      "b": "1억 2,887만 9,760원",
+      "amount": "1억 2,887만 9,760원",
+      "d": "2026.10.14 10:00",
+      "deadlineType": "전자입찰 마감",
+      "noticeType": "재공고",
+      "noticeNo": "R26BK01752627-000",
+      "f": "매우 높음",
+      "why": "10/1 오전 기존 재공고가 마감된 뒤 같은 날 13:37 새 공고번호로 다시 재공고. VR 기반 심폐소생술 교육기기 구매로 페리굿 의료·안전 XR 영역과 직접 일치.",
+      "task": "가상현실 심폐소생술 멀티미디어학습장치 1식 납품·현장설치",
+      "q": "멀티미디어학습장치(6010939901) 제조물품 등록 · 직접생산확인증명서 · 중소기업/소상공인 · 공동수급 불가 · 참가자격 등록 10/13 18:00",
+      "j": "공동수급 불가",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01752627&bidPbancOrd=000",
+      "urlType": "official",
+      "source": "G2B",
+      "lifecycle": "bid",
+      "bidMethod": "가격입찰",
+      "bidMethodEvidence": "규격·가격 동시입찰이지만 공개 문서 요약상 규격 적격 여부를 먼저 확인한 뒤 적격자 중 예정가격 내 최저가로 낙찰. 별도 정성점수/PT 경쟁은 확인되지 않아 가격입찰로 분류.",
+      "peligoodFit": "핵심적합",
+      "fitEvidence": "가상현실 심폐소생술 교육장치 자체가 구매대상으로 의료·안전 VR 교육 콘텐츠와 HMD/교육 시스템 통합납품 역량에 직접 부합.",
+      "participationStatus": "확인 필요",
+      "participationReason": "VR CPR 납품 역량은 직접 부합하지만 멀티미디어학습장치 제조물품 등록, 직접생산확인증명서, 중소기업 요건을 페리굿이 실제 보유했는지 확인 필요."
+    },
+    {
+      "t": "active",
+      "n": 1,
+      "h": 0,
+      "title": "[앵커] 2차년도 경복대학교 안전보건과 공용장비 VR 구매",
+      "a": "경복대학교 산학협력단",
+      "b": "4,532만원",
+      "amount": "4,532만원",
+      "d": "2026.10.07 10:00",
+      "deadlineType": "전자입찰 마감",
+      "noticeType": "입찰공고",
+      "noticeNo": "R26BK01747552-000",
+      "f": "매우 높음",
+      "why": "사전규격에서 정식 본공고로 전환. 안전보건과 교육용 VR 장비 30대·충전기·VR 소프트웨어를 함께 구매하는 사업으로 페리굿 학교·안전교육 XR 납품과 직접 연결.",
+      "task": "교육용 VR 장비 30대 + 충전기 2대 + VR 소프트웨어 30개 공급·설치",
+      "q": "가상현실장치(6014119501) 제조/공급물품 등록 · SW사업자(1468 또는 1426) · 정품 공급/A/S 증빙 · 공동수급 불가 · 참가자격 등록 10/6 18:00",
+      "j": "공동수급 불가",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01747552&bidPbancOrd=000",
+      "urlType": "official",
+      "source": "G2B",
+      "lifecycle": "bid",
+      "bidMethod": "가격입찰",
+      "bidMethodEvidence": "일반경쟁·총액입찰·적격심사. 낙찰하한율 86.245%이며 제안서/PT 평가 없이 가격과 적격심사 기준으로 낙찰자 선정.",
+      "peligoodFit": "핵심적합",
+      "fitEvidence": "안전보건 교육용 VR 장비와 소프트웨어를 묶어 납품하는 사업으로 페리굿의 HMD·교육 콘텐츠·시스템 통합납품 영역과 직접 일치.",
+      "participationStatus": "준비하면 가능",
+      "participationReason": "지역제한과 별도 업종제한은 없고 VR 장치 등록 + SW사업자 자격 + 제조사/공식 공급망 및 A/S 증빙을 준비하면 참여 가능성이 높음. 실제 보유 등록상태는 최종 확인 필요."
+    },
+    {
+      "t": "active",
+      "n": 1,
+      "h": 0,
+      "title": "양주 회암사지 XR망원경 구입",
+      "a": "경기도 양주시",
+      "b": "7,040만원",
+      "amount": "7,040만원",
+      "d": "2026.10.02 12:00",
+      "deadlineType": "입찰 마감",
+      "noticeType": "물품 공고",
+      "noticeNo": "R26BK01753420-000",
+      "f": "매우 높음",
+      "why": "회암사지의 기존 AR/XR 관람 인프라에 사용할 XR망원경 구매. 나라장터 분류도 가상현실장치로 잡혀 있어 XR 체험 시스템 납품과 직접 연결.",
+      "task": "회암사지 XR망원경 구매·납품",
+      "q": "공개 목록상 전국·가상현실장치·수의계약 표시. 전자견적/시담 여부와 세부 물품등록·직접생산·제조사 증빙 조건은 원문 최종 확인",
+      "j": "원문 확인",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01753420&bidPbancOrd=000",
+      "urlType": "official",
+      "source": "G2B",
+      "lifecycle": "bid",
+      "bidMethod": "확인 필요",
+      "bidMethodEvidence": "공개 목록에서 수의계약으로 확인되지만 전자견적 경쟁인지 지정 전자시담인지 세부 낙찰구조를 현재 공개 검색 결과만으로 확정하지 못해 확인 필요로 유지.",
+      "peligoodFit": "핵심적합",
+      "fitEvidence": "AR/XR 기반 문화유산 체험용 망원경 자체가 구매대상이고 가상현실장치로 분류되어 XR 체험장비 공급·연동 역량과 직접 부합."
+    }
+  ],
+  "deepScan": {
+    "channelsChecked": [
+      "G2B/나라장터 당일 신규 물품·용역·재공고",
+      "기존 Watch 8건 본공고 전환 역검색",
+      "대학·산학협력단 자체/나라장터 공고",
+      "초중고·교육청·S2B/학교장터 공개 검색",
+      "KOBEC 방송미디어장비·XR 관련 검색",
+      "한전/발전사 자체조달·재공고 검색",
+      "민간기업·민간기관 공개 RFP/입찰 검색",
+      "비드프로·조달엔·조달핏·수주벗·21라인 등 교차검색"
+    ],
+    "addedOrPromoted": [
+      {
+        "noticeNo": "R26BK01747552-000",
+        "title": "[앵커] 2차년도 경복대학교 안전보건과 공용장비 VR 구매",
+        "action": "사전규격→본공고 승격 및 가격입찰 확인"
+      },
+      {
+        "noticeNo": "R26BK01752627-000",
+        "title": "가상현실 심폐소생술 기기 구매",
+        "action": "10/1 오후 재공고로 교체, 가격입찰 재분류"
+      },
+      {
+        "noticeNo": "R26BK01753420-000",
+        "title": "양주 회암사지 XR망원경 구입",
+        "action": "당일 신규 핵심적합 추가"
+      }
+    ],
+    "privateTrack": "2026-10-01 21:20 KST 기준 공개 웹에서 페리굿 핵심·인접적합으로 검증 가능한 신규 활성 민간기업 자체 RFP는 추가 확인하지 못함. 폐쇄형 벤더/협력사 포털은 계속 감시 필요."
+  }
 }
