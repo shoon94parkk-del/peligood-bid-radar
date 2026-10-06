@@ -1,0 +1,220 @@
+{
+  "updated": "2026-10-06",
+  "executedAt": "2026-10-06T09:00:00+09:00",
+  "counts": {
+    "newIncluded": 1,
+    "lifecycleTransitions": 0,
+    "totalValid": 28,
+    "bid": 20,
+    "preSpec": 1,
+    "plan": 0,
+    "watch": 7
+  },
+  "trackCounts": {
+    "publicProcurementIncluded": 0,
+    "universityIndustryAcademicIncluded": 0,
+    "schoolEducationS2BIncluded": 1,
+    "privateVerifiedActiveIncluded": 0
+  },
+  "lifecycleTransitions": [],
+  "new": [
+    {
+      "source": "G2B",
+      "amount": "3.5억원",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01755245&bidPbancOrd=000",
+      "urlType": "official",
+      "lifecycle": "bid",
+      "noticeNo": "R26BK01755245-000",
+      "d": "2026.10.23 10:00",
+      "deadlineType": "입찰서 제출 마감",
+      "noticeType": "입찰공고",
+      "title": "충북과학체험관 전시체험물 개선사업(제작설치) 입찰 공고",
+      "a": "충청북도교육청 자연과학교육원",
+      "task": "충북과학체험관 전시체험물 개선사업 제작·설치",
+      "why": "충청북도교육청 자연과학교육원 발주 전시체험관 개선사업. 전시체험물 제작·설치는 페리굿 체험관 구축·3D 모델링·인터랙션 역량과 연결. 단, 공고문 원문 내 XR/실감형 과업 명시 여부는 미확인.",
+      "f": "보통",
+      "q": "확인 필요 — 공고문 원문 미확인",
+      "j": "확인 필요 — 원문 미확인",
+      "n": 1,
+      "h": 0,
+      "t": "active",
+      "bidMethod": "확인 필요",
+      "bidMethodEvidence": "발주계획(seenthis.kr/bidplan/413413) 기준 기관·사업명·발주시기 확인. g2b 공고문 직접 조회 불가(HTML5/JS 장벽) — 입찰방식 판정 근거 없음. 제목만으로 추정 금지.",
+      "peligoodFit": "인접적합",
+      "fitEvidence": "전시체험물 제작·설치가 과업 중심. 페리굿 핵심역량(체험관 구축·3D 모델링·인터랙션 프로그래밍)과 직접 연결되나, XR/실감형 과업 명시는 공고문 원문에서 미확인."
+    }
+  ],
+  "updates": [],
+  "removedOrExcluded": [
+    {
+      "noticeNo": "202609291538514",
+      "title": "가평중학교 2026학년도 가상현실 스포츠 시스템 구입 소액수의 견적제출 안내공고",
+      "agency": "경기가평중학교",
+      "reason": "마감 2026.10.06 09:00 경과 (실행 시점 기준) — 기본 노출에서 제거. 재공고 여부는 다음 회차에서 재확인."
+    },
+    {
+      "noticeNo": "충북안전체험관-2026-3호",
+      "title": "충북안전체험관 XR체험장비 및 콘텐츠 구축 사업 · 본공고 추적",
+      "agency": "충북안전체험관",
+      "reason": "본공고 전환 확인 후 입찰 종료 확인: G2B 입찰공고문상 전자입찰 2026.9.17 10:00~9.18 17:00 제출, 9.22 개찰 — 이미 마감. 평가위원 모집(제2026-3호, 협상에 의한 계약, 사업비 1억 9,855만원) 이후 본공고 진행됨. watch 목적 달성으로 종료."
+    }
+  ],
+  "fitCounts": {
+    "인접적합": 9,
+    "핵심적합": 19
+  },
+  "bidMethodCounts": {
+    "제안서 필수": 8,
+    "확인 필요": 9,
+    "제안서+발표": 4,
+    "가격입찰": 7
+  },
+  "priceOnly": [
+    {
+      "noticeNo": "R26BK01752627-000",
+      "title": "가상현실 심폐소생술 기기 구매",
+      "agency": "경찰청",
+      "deadline": "2026.10.14 10:00",
+      "participationStatus": "확인 필요",
+      "participationReason": "VR CPR 납품 역량은 직접 부합하지만 멀티미디어학습장치 제조물품 등록, 직접생산확인증명서, 중소기업 요건을 페리굿이 실제 보유했는지 확인 필요.",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01752627&bidPbancOrd=000"
+    },
+    {
+      "noticeNo": "R26BK01744067-000",
+      "title": "의료기기 RA 심사 대응 STAGE2 VR 콘텐츠 개발 용역",
+      "agency": "상지대학교 산학협력단",
+      "deadline": "2026.10.07 15:00",
+      "participationStatus": "준비하면 가능",
+      "participationReason": "VR 콘텐츠 개발 역량은 직접 부합. 직찰 및 1단계 규격/제출서류를 충족해야 하므로 첨부 공고문 기준 서류 준비 필요.",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01744067&bidPbancOrd=000"
+    },
+    {
+      "noticeNo": "R26BK01739262-000",
+      "title": "[디지털] XR/VR/PC 기반 반도체 실습 프로그램",
+      "agency": "조선이공대학교 산학협력단",
+      "deadline": "2026.10.08 14:00",
+      "participationStatus": "확인 필요",
+      "participationReason": "XR 교육 수행역량은 부합하지만 최근 3년 유사실적 약 5억원 및 소프트웨어 관련 직접생산/자격 요건이 제시된 것으로 확인되어 페리굿 보유 증빙과 대조 필요.",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01739262&bidPbancOrd=000"
+    },
+    {
+      "noticeNo": "R26BK01739223-000",
+      "title": "[디지털] FaradayXR 반도체 공정 XR 시스템 구입",
+      "agency": "조선이공대학교 산학협력단",
+      "deadline": "2026.10.08 14:00",
+      "participationStatus": "확인 필요",
+      "participationReason": "XR 시스템 역량은 부합하지만 유사실적 5억원 이상, 패키지SW 관련 자격, 사전 규격검토 요건을 페리굿이 충족하는지 확인 필요.",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01739223&bidPbancOrd=000"
+    },
+    {
+      "noticeNo": "R26BK01747552-000",
+      "title": "[앵커] 2차년도 경복대학교 안전보건과 공용장비 VR 구매",
+      "agency": "경복대학교 산학협력단",
+      "deadline": "2026.10.07 10:00",
+      "participationStatus": "준비하면 가능",
+      "participationReason": "지역제한과 별도 업종제한은 없고 VR 장치 등록 + SW사업자 자격 + 제조사/공식 공급망 및 A/S 증빙을 준비하면 참여 가능성이 높음. 실제 보유 등록상태는 최종 확인 필요.",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01747552&bidPbancOrd=000"
+    },
+    {
+      "noticeNo": "R26BK01737321-000",
+      "title": "경상남도교육청 학생안전체험원 공공형 안전체험교육장 구축 사업 입찰 공고",
+      "agency": "경상남도교육청(학생안전체험원)",
+      "deadline": "2026.10.12 10:00",
+      "participationStatus": "확인 필요",
+      "participationReason": "물품 세부품명 실물모형및전시물(6010989901) 등록 필요 추정. 세부 참가자격·지역제한·직접생산 요건은 공고문 원문 미확인(확실하지 않음).",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01737321&bidPbancOrd=000"
+    },
+    {
+      "noticeNo": "R26BK01753843-000",
+      "title": "SW·AI교육거점센터 VR e-스포츠 시스템 구매 · 재공고 추적",
+      "agency": "부산광역시교육청교육연구정보원",
+      "deadline": "1인 견적 2026.10.02 15:00 마감 · 재공고 추적",
+      "participationStatus": "확인 필요",
+      "participationReason": "1인 견적(소액수의) 마감(2026.10.02 15:00) 경과 — 후속 재공고 시 세부품명 등록·지역제한·직접생산확인 등 원문 확인 필요.",
+      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01753843&bidPbancOrd=000"
+    }
+  ],
+  "sourceCountsNew": {
+    "G2B": 1,
+    "LH": 0,
+    "학교/교육기관": 0,
+    "other": 0
+  },
+  "links": {
+    "total": 28,
+    "official": 21,
+    "discovery": 7,
+    "external": 0
+  },
+  "channelsChecked": [
+    "A 공공조달: seenthis.kr/bid 10-05 게시분 전수(~20건, XR 관련 없음), steemit ICT 브리핑 10-02 회차 최신(입찰50+발주예정50+사전규격13 전수, XR 없음), kimkj.com 게스트북 채널 사실상 중단(사이트 AI 뉴스레터형 개편), sujubut 로그인 필요로 미가동, bidpro 구독형으로 웹검색 경유 신규 없음, g2b는 검색엔진 인덱스 경유 일부 확인. watch 5건 재확인.",
+    "B 대학·산학협력단: kimkj 일일 발주 포스트(10-01~10-04), steemit ICT 브리핑(10-02), seenthis 미러, 대학+VR/XR/실감형 웹 인덱스 검색. 신규 0건. watch 3건 유지, 조건부 2건 부적합 확정. 나라장터 사전규격 상세는 로그인 세션 필요로 직접 접근 불가.",
+    "C 초중고·교육청·S2B: seenthis.kr/bid page1(10-05 게시 43건)+page2(10/2~10/4) 전수 스캔 — 어제 크롤 시차로 누락된 10-05 게시분 재확인 완료, XR 신규 0건. 시도교육청 게시판 웹검색에서 10/5~10/6 신규 XR 없음. S2B 로그인 벽(공개 목록 불가), bidpro 개별상세 타임아웃. 조건부 2건 최종 판정(충북과학체험관→인접적합 신규, AI시민체험→부적합).",
+    "D 민간: metaversealliance.or.kr 공지 직접 확인(최신 09-17, 10월 신규 없음), K-META·한국VRAR산업협회 신규 공지 없음, 민간 뉴스 키워드 검색 적중분은 모두 공공·지원 성격, 대기업 협력사 포털 공개영역은 로그인 장벽으로 확인 불가. 검증 가능한 민간 고유 XR 발주 0건."
+  ],
+  "watchRecheck": [
+    {
+      "previousNoticeNo": "LH-2026-VR-SAFETY-WATCH",
+      "title": "LH VR 안전교육 후속·유사발주 추적",
+      "result": "후속 본공고 미확인 — watch 유지. LH 자체 e-bid 체계로 G2B 검색 색인 한계 (확실하지 않음)"
+    },
+    {
+      "previousNoticeNo": "R26BD00276460",
+      "title": "2026년 신규산업안전감독관 실감형(VR) 콘텐츠 및 VR기반 교육과정개발 (고용노동교육원)",
+      "result": "본공고 전환 미확인 — watch 유지. 발주계획 R26DD20875759 재확인: 예산 13억원, 발주시기 2026.09, 조달방식 중앙조달·일반경쟁 (seenthis.kr/bidplan/413245)"
+    },
+    {
+      "previousNoticeNo": "R26BD00275676",
+      "title": "강원랜드 스마트(VR·AI) 안전보건교육 동영상 제작",
+      "result": "본공고 전환 미확인 — watch 유지. 검색 적중 강원랜드 공고는 브랜드홍보 디자인 용역 등 무관 건"
+    },
+    {
+      "previousNoticeNo": "KEPCO-G142600027-WATCH",
+      "title": "복합발전 VR SPACE 실습장비 구매 (한국발전교육원)",
+      "result": "후속 재공고 미확인 — watch 유지. 한전 자체 전자조달(G-prefix) 체계라 나라장터 미러 없음 (확실하지 않음)"
+    },
+    {
+      "previousNoticeNo": "R26BD00264156",
+      "title": "웨어러블 AI·XR 기반 K-아트 실무 교육 첨단 기자재 구축 용역 (호원대 RISE사업단)",
+      "result": "본공고 미발견 — watch 유지. 사전규격 과업지시서 재확인: 예산 3,150만원, 제한경쟁입찰(최저가격입찰), 품목 메타 레이밴 디스플레이 3식·삼성 갤럭시XR 2식 + 교육 콘텐츠 1종"
+    },
+    {
+      "previousNoticeNo": "R26BD00270506",
+      "title": "강원대학교 하이브리드 스튜디오 XR 고도화 장비 구매",
+      "result": "본공고 미발견 — watch 유지. 기관명+사업명으로 R…BK 전환 역추적, 웹 인덱스·seenthis 미러에 사전규격 번호 노출 없음. 사전규격 상세는 로그인 세션 필요 (확실하지 않음)"
+    },
+    {
+      "previousNoticeNo": "R26BK01753843-000",
+      "title": "SW·AI교육거점센터 VR e-스포츠 시스템 구매 (부산광역시교육청교육연구정보원)",
+      "result": "10/2 1인 견적 마감 후 후속 재공고 미확인 — watch 유지 (확실하지 않음)"
+    }
+  ],
+  "conditionalRecheck": [
+    {
+      "noticeNo": "R26BK01755245-000",
+      "title": "충북과학체험관 전시체험물 개선사업(제작설치) 입찰 공고",
+      "reason": "10/5 조건부 → 10/6 최종 판정: 인접적합(f=보통)으로 승격, 신규 포함. 전시체험물 제작·설치는 체험관 구축 역량과 직접 연결. 다만 XR/실감형 과업 명시는 공고문 원문 미확인 — 원문 추가확인 권고"
+    },
+    {
+      "noticeNo": "R26BD00281082",
+      "title": "AI 기반 지역혁신 데이터 플랫폼 구축 (부산대학교 산학협력단)",
+      "reason": "부적합 확정 (조건부에서 제외). kimkj 10-04 포스트: 사전규격 용역 3억원, 인공지능 연구용역 분류 — XR/실감형 과업 명시 없음. 단 사전규격 원문은 미확인이라 본공고에서 XR 요소 확인 시 재평가 가능 (확실하지 않음)"
+    },
+    {
+      "noticeNo": "R26BK01700285-000",
+      "title": "[이차전지특성화대학사업단] 송도 산학협력관 VR/AR 시뮬레이션 스튜디오 및 실습실 구축 공사(정보통신)",
+      "reason": "부적합 확정. 인하대학교 산학협력단 발주, 정보통신공사(통신설비) 5,620만원 — XR 장비 납품·콘텐츠 과업 아님, 입찰마감 2026-09-10 경과"
+    },
+    {
+      "noticeNo": "R26BD00266945",
+      "title": "2026년도 AI시민체험 행사 운영 용역 (사전규격)",
+      "reason": "부적합 확정. 과업내용서(g2b BFDTL) 확인: 청소년 대상 AI 체험 행사 기획·운영(2026-10-24), XR/VR/MR/실감형 과업 명시 없음 — 명시적 제외(단순 행사·일반 AI) 적용. 발주기관은 미확인 (확실하지 않음)"
+    }
+  ],
+  "privateMonitoringChannels": [
+    "대학병원 구매시스템",
+    "대기업 협력사·벤더 포털",
+    "협회·민간재단 내부 구매/RFP 게시판"
+  ],
+  "notes": "10/6 09:00 KST 4개 트랙 심층검색. 신규 1건: 충북과학체험관 전시체험물 개선사업(R26BK01755245-000, 3.5억원, 마감 2026-10-23 10:00, 인접적합, f=보통, 입찰방식 확인 필요 — 공고문 원문 미확인). 제거 2건: ①가평중 VR 스포츠 시스템(202609291538514, 10/6 09:00 마감 경과) ②충북안전체험관 XR 구축 watch(본공고 9/17~18 게시·마감 확인 → watch 종료). 업데이트 0건. watch 7건 전부 전환 미확인으로 유지. 조건부 4건 정리: 1건 신규 승격, 3건 부적합 확정. 민간 트랙은 검증 가능한 민간 고유 XR 발주 0건. 구조적 한계: G2B 공식 딥링크 직접 조회 불가(HTML5/JS 차단), kimkj 게스트북 채널 사실상 중단, seenthis·steemit 브리핑은 시차 존재 — 10/6 게시분은 아직 인덱싱 전이라 내일(10/7) 조사에서 재확인 필요 (확실하지 않음). 추가로 기 마감이나 부적합으로 제외된 참고 건: 울산대 XR 용접토치(R26BK01728739-000, 9/28 마감), 선린대 가상현실 해부학 프로그램(R26BK01743693-000, 10/1 마감)."
+}
