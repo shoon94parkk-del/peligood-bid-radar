@@ -1,208 +1,71 @@
 {
   "updated": "2026-10-07",
-  "executedAt": "2026-10-07T07:51:04+09:00",
+  "executedAt": "2026-10-07T09:00:00+09:00",
   "counts": {
-    "newOrPromoted": 4,
-    "totalValid": 26,
-    "bid": 22,
+    "newIncluded": 1,
+    "lifecycleTransitions": 0,
+    "totalValid": 27,
+    "bid": 23,
     "preSpec": 0,
     "plan": 0,
     "watch": 4
   },
   "trackCounts": {
-    "publicProcurementChanged": 3,
-    "universityIndustryAcademicChanged": 1,
-    "schoolEducationS2BChanged": 0,
-    "privateVerifiedActiveChanged": 0
+    "publicProcurementNew": 0,
+    "universityIndustryAcademicNew": 1,
+    "schoolEducationS2BNew": 0,
+    "privateVerifiedActiveNew": 0
   },
-  "newOrPromoted": [
+  "lifecycleTransitions": [],
+  "new": [
     {
-      "source": "G2B",
-      "amount": "2,400만원",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01758442&bidPbancOrd=000",
+      "source": "대학 자체조달",
+      "amount": "2억 7,000만원",
+      "b": "2억 7,000만원",
+      "url": "https://faculty.jj.ac.kr/jj/community/notice06.do?articleNo=533583&mode=view",
       "urlType": "official",
       "lifecycle": "bid",
-      "noticeNo": "R26BK01758442-000",
-      "d": "2026.10.19 10:00",
-      "deadlineType": "제안서·가격입찰서 제출 마감",
-      "noticeType": "수정공고",
-      "title": "AI기반 디지털트윈 EV 정비 교육용 콘텐츠 제작(수정)",
-      "a": "국민대학교 산학협력단",
-      "task": "AI 기반 디지털트윈 EV 정비 교육용 콘텐츠 제작",
-      "why": "기존 2.4억원 공고 종료 후 10/6 17:53 수정공고가 새 번호로 게시됨. EV 정비 교육용 디지털트윈 콘텐츠 제작으로 직무훈련형 XR/시뮬레이션 역량과 인접.",
-      "f": "높음",
-      "q": "소프트웨어사업자(패키지소프트웨어개발·공급사업) + 소프트웨어사업자(디지털콘텐츠개발서비스사업) · 공동이행 허용 · 참가자격 등록 10/18 18:00",
-      "j": "공동이행 허용",
-      "n": 1,
-      "h": 1,
-      "t": "active",
-      "previousNoticeNo": "R26BD00275290",
-      "bidMethod": "제안서 필수",
-      "bidMethodEvidence": "일반경쟁·총액계약·협상에 의한 계약(SW사업). 제안서 기술평가와 가격평가 후 협상대상자 선정.",
-      "peligoodFit": "인접적합",
-      "fitEvidence": "디지털트윈 기반 EV 정비 교육 콘텐츠가 중심으로 페리굿의 직무훈련형 XR/시뮬레이션 콘텐츠 역량과 인접.",
-      "b": "2,400만원"
-    },
-    {
-      "t": "active",
-      "n": 1,
-      "h": 0,
-      "title": "2026년 신규산업안전감독관 실감형(VR) 콘텐츠 및 VR기반 교육과정개발 용역",
-      "a": "한국고용노동교육원",
-      "b": "13억 935만원",
-      "amount": "13억 935만원",
-      "d": "2026.10.20 10:00",
-      "deadlineType": "제안서·가격입찰서 제출 마감",
-      "noticeType": "입찰공고",
-      "noticeNo": "R26BK01746943-000",
-      "f": "매우 높음",
-      "why": "10/6 16:50 정식 본공고로 전환. 사고 다발 위험기계·기구 10종의 실감형 VR 콘텐츠와 신규 산업안전감독관 1주 실습형 교육과정을 구축하는 대형 핵심사업.",
-      "task": "위험기계·기구 10종 VR 체험형 콘텐츠 개발 + 신규 산업안전감독관 실습형 교육과정 구축",
-      "q": "소프트웨어사업자(디지털콘텐츠개발서비스사업) · 일반경쟁 · 공동수급 불가 · 참가자격 등록 10/19 18:00",
-      "j": "공동수급 불가",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01746943&bidPbancOrd=000",
-      "urlType": "official",
-      "source": "G2B",
-      "lifecycle": "bid",
-      "bidMethod": "제안서 필수",
-      "bidMethodEvidence": "일반경쟁·총액계약·협상에 의한 계약. 기술제안 평가와 가격평가를 거쳐 협상대상자를 선정.",
-      "peligoodFit": "핵심적합",
-      "fitEvidence": "위험기계 10종 VR 체험형 콘텐츠와 산업안전감독관 실습 교육과정 개발이 핵심 과업으로 페리굿의 산업안전 XR·직무훈련 핵심역량과 직접 일치."
-    },
-    {
-      "t": "active",
-      "n": 1,
-      "h": 0,
-      "title": "강원대학교 하이브리드 스튜디오 XR 고도화를 위한 장비 구매",
-      "a": "강원대학교",
-      "b": "1억 5,951만 800원",
-      "amount": "1억 5,951만 800원",
-      "d": "2026.10.21 10:00",
-      "deadlineType": "입찰서 제출 마감",
-      "noticeType": "입찰공고",
-      "noticeNo": "R26BK01757930-000",
-      "f": "높음",
-      "why": "사전규격 이후 10/6 17:08 정식 본공고 게시. XR 기반 실감형 콘텐츠 제작·리얼타임 3D·가상공간 강의 제작용 하이브리드 스튜디오 고도화 장비 구축.",
-      "task": "하이브리드 스튜디오 XR 고도화 장비·멀티미디어저작소프트웨어 1식 공급·설치",
-      "q": "제한경쟁 · 멀티미디어저작소프트웨어(4323200501) 물품등록 · 중소기업 관련 요건 · 공동수급 불가 · 참가자격 등록/보증서 10/20 18:00",
-      "j": "공동수급 불가",
-      "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01757930&bidPbancOrd=000",
-      "urlType": "official",
-      "source": "G2B",
-      "lifecycle": "bid",
-      "bidMethod": "제안서 필수",
-      "bidMethodEvidence": "제한(총액)·협상에 의한 계약(SW사업)으로 제안평가가 필요한 물품 구축사업.",
-      "peligoodFit": "인접적합",
-      "fitEvidence": "XR 실감형 콘텐츠 제작 시스템과 리얼타임 3D/가상공간 제작환경 구축으로 페리굿 제작 인프라 역량과 인접."
-    },
-    {
-      "t": "active",
-      "n": 1,
-      "h": 1,
-      "title": "실감형 문화관광 힐링 콘텐츠 제작 지원 및 대국민 테스트-쇼케이스 기획/운영",
-      "a": "전주대학교",
-      "b": "9,000만원",
-      "amount": "9,000만원",
-      "d": "2026.10.13 10:30",
+      "noticeNo": "JJU-2026-112",
+      "d": "2026.10.14 10:30",
       "deadlineType": "입찰등록·제안서 제출 마감",
       "noticeType": "대학 자체 입찰",
-      "noticeNo": "JJU-2026-109",
+      "title": "AI-ICVFX 교육 프로그램 운영 및 글로벌 현장 연수 용역",
+      "a": "전주대학교",
+      "task": "AI-ICVFX(버추얼 프로덕션·실감형 VFX) 교육 프로그램 운영 및 글로벌 현장 연수",
+      "why": "전주대학교 앵커사업단 발주(공고 제2026-112호). 버추얼 프로덕션(LED볼륨/XR그린스크린)·생성형 AI 영상·실감형 VFX 콘텐츠 제작과 교육 프로그램 운영이 과업 중심. 페리굿의 실감형/XR 콘텐츠 제작·3D·인터랙션 역량과 인접. 최근 3년 1억원 이상 단일실적(관련 분야) 요구로 참가자격 실제 보유 여부 확인 필요.",
       "f": "높음",
-      "why": "나라장터가 아닌 전주대학교 자체 구매/입찰 게시판에서 확인한 실감형 문화관광 콘텐츠 제작지원·대국민 테스트/쇼케이스 사업.",
-      "task": "실감형 문화관광 힐링 콘텐츠 제작 지원 및 대국민 테스트·쇼케이스 기획/운영",
-      "q": "기타자유업(행사대행업 9901) G2B 등록 · 전시/행사 운영 또는 무대·미디어 시공 분야 5천만원 이상 단일 실적 1건 · 입찰보증금 5% · 현장 직접접수",
+      "q": "국가계약법 12조 자격자 + 최근 3년 단일계약 1억원 이상(버추얼프로덕션 LED볼륨·XR그린스크린 영상제작/교육운영, 생성형AI 영상·실감형VFX 콘텐츠 제작, 대학·공공기관 영상미디어 교육 프로그램 운영, ICVFX 기반 콘텐츠 제작 중 1건 이상) + 입찰보증금 5% 증권",
       "j": "공고문 원문 확인",
-      "url": "https://faculty.jj.ac.kr/jj/community/notice06.do?articleNo=533579&mode=view",
-      "urlType": "official",
-      "source": "대학 자체조달",
-      "lifecycle": "bid",
+      "n": 1,
+      "h": 0,
+      "t": "active",
       "bidMethod": "제안서+발표",
-      "bidMethodEvidence": "제한경쟁·협상에 의한 계약. 제안서 정량/정성평가 후 협상대상 선정, 10/13 14:00 현장 PT(15분 발표+10분 질의응답).",
+      "bidMethodEvidence": "제한경쟁입찰·협상에 의한 계약. 기술평가 68.0점(80점의 85%) 이상 협상대상, 현장 PT 심사(15분 발표+10분 질의응답). 전주대 자체 구매/입찰 게시판 원문(HWP) 직접 파싱으로 확인.",
       "peligoodFit": "인접적합",
-      "fitEvidence": "실감형 문화관광 힐링 콘텐츠 제작 지원과 대국민 체험 테스트가 과업 중심으로 페리굿의 실감형·체험형 콘텐츠 역량과 인접."
+      "fitEvidence": "버추얼 프로덕션(LED볼륨/XR그린스크린)·생성형 AI 영상·실감형 VFX 콘텐츠 제작과 교육 프로그램 운영이 과업 중심. 페리굿의 실감형/XR 콘텐츠 제작·3D·인터랙션 역량과 인접하나 연수 운영 비중이 커 XR 과업 중심(핵심적합)에는 미달."
     }
   ],
-  "verifiedPromotions": [
+  "updates": [],
+  "removedOrExcluded": [
     {
-      "noticeNo": "R26BK01744115-000",
-      "title": "VR 기반 선체배관 용접 실습 시뮬레이터 구매",
-      "status": "본공고 전환 확인"
-    },
-    {
-      "noticeNo": "R26BK01744144-000",
-      "title": "친환경 도장 공정 실습 시뮬레이터 구매",
-      "status": "본공고 전환 확인"
-    }
-  ],
-  "removedExpiredOrStale": [
-    {
-      "noticeNo": "R26BK01742837-000",
-      "title": "VR 교육용 장비 구매",
-      "reason": "10/2 마감 경과"
-    },
-    {
-      "noticeNo": "R26BK01742913-000",
-      "title": "경희대학교 WE-Meet 실감미디어 콘텐츠고도화",
-      "reason": "10/6 마감 경과"
-    },
-    {
-      "noticeNo": "202609291538514",
-      "title": "가평중학교 가상현실 스포츠 시스템 구매",
-      "reason": "10/6 마감 경과"
-    },
-    {
-      "noticeNo": "R26BK01753843-000",
-      "title": "SW·AI교육거점센터 VR e-스포츠 시스템 구매 1인 견적",
-      "reason": "10/2 전자시담 완료 및 낙찰 확인"
-    },
-    {
-      "noticeNo": "R26BD00264156",
-      "title": "웨어러블 AI·XR 기반 K-아트 첨단 기자재",
-      "reason": "사전규격 후 본공고가 8월에 이미 종료된 오래된 Watch"
-    }
-  ],
-  "excludedCurrent": [
-    {
-      "noticeNo": "R26BK01758671-000",
-      "title": "XR 멀티세션 스트리밍 수집 인프라 정량 특성화 및 세션 인지형 참조 파이프라인 개발",
-      "reason": "10/6 신규지만 전자시담·수의계약으로 공개경쟁 기회가 아니어서 기본목록 제외"
-    }
-  ],
-  "lifecycleChanges": [
-    {
-      "from": "R26BD00276460",
-      "to": "R26BK01746943-000",
-      "title": "2026년 신규산업안전감독관 실감형(VR) 콘텐츠 및 VR기반 교육과정개발 용역",
-      "deadline": "2026-10-20 10:00"
-    },
-    {
-      "from": "R26BD00270506",
-      "to": "R26BK01757930-000",
-      "title": "강원대학교 하이브리드 스튜디오 XR 고도화를 위한 장비 구매",
-      "deadline": "2026-10-21 10:00"
-    },
-    {
-      "from": "R26BK01740811-000",
-      "to": "R26BK01758442-000",
-      "title": "AI기반 디지털트윈 EV 정비 교육용 콘텐츠 제작(수정)",
-      "deadline": "2026-10-19 10:00"
-    },
-    {
-      "from": "R26BD00280028",
-      "to": "watch",
-      "title": "카자흐스탄 크즐오르다 대학교 VR 실습실 장비 설치사업 구축",
-      "reason": "10/6 사전규격 종료, 10월 발주계획 유지·본공고 미확인"
+      "noticeNo": "R26BK01737398-000",
+      "title": "SW·AI교육거점센터 VR e-스포츠 시스템 구매 2인 견적제출 안내 재공고",
+      "agency": "부산광역시교육청 교육연구정보원",
+      "amount": "23,100,000원",
+      "reason": "2026-09-29 10:00 마감 경과. 레이더에 등록된 이력 없음 — 제거 기록만 유지",
+      "url": "https://seenthis.kr/bid/782976",
+      "urlType": "discovery"
     }
   ],
   "fitCounts": {
     "core": 17,
-    "adjacent": 9,
+    "adjacent": 10,
     "conditional": 0
   },
   "bidMethodCounts": {
     "price": 6,
     "proposal": 9,
-    "proposalPresentation": 5,
+    "proposalPresentation": 6,
     "check": 6
   },
   "priceOnly": [
@@ -261,22 +124,61 @@
       "url": "https://www.g2b.go.kr/link/PNPE027_01/single/?bidPbancNo=R26BK01737321&bidPbancOrd=000"
     }
   ],
+  "sourceCountsNew": {
+    "G2B": 0,
+    "대학 자체조달": 1,
+    "학교/교육기관": 0,
+    "other": 0
+  },
+  "links": [
+    {
+      "noticeNo": "JJU-2026-112",
+      "url": "https://faculty.jj.ac.kr/jj/community/notice06.do?articleNo=533583&mode=view",
+      "urlType": "official"
+    }
+  ],
   "channelsChecked": [
-    "G2B/나라장터 신규·재공고·수정공고·사전규격·발주계획",
-    "기존 Watch 사업명별 본공고 역검색",
-    "대학·산학협력단 자체 구매/입찰 게시판",
-    "초중고·교육청·S2B/학교장터 공개 검색",
-    "KOBEC 방송미디어장비 관련 검색",
-    "한전/발전사·공기업 자체조달 공개 검색",
-    "협회·재단·민간기업 공개 RFP/입찰 검색",
-    "비드프로·조달엔·조달핏·수주벗·산군 등 교차검증"
+    "G2B/나라장터 신규·재공고·수정공고·사전규격·발주계획 (Track 1)",
+    "Watch 사업명별 본공고 역검색: 강원랜드 R26BD00275676, 서울과기대 R26BD00280028, LH, 한전전자조달 (Track 1·2)",
+    "대학·산학협력단 자체 구매/입찰 게시판 — 전주대 게시판 원문 직접 확인 (Track 2)",
+    "초중고·교육청·S2B 공개 검색 + seenthis.kr/bid 10/6 18:00~23:00 게시 44건 (Track 3)",
+    "협회·재단·민간기업 공개 RFP/입찰 검색 (Track 4)",
+    "비드프로·수주벗·steemit G2B ICT 브리핑·kimkj 다이어리 교차검증"
+  ],
+  "watchRecheck": [
+    {
+      "previousNoticeNo": "R26BD00275676",
+      "title": "강원랜드 스마트(VR·AI) 안전보건교육 동영상 제작",
+      "result": "본공고 전환 미확인 — watch 유지"
+    },
+    {
+      "previousNoticeNo": "R26BD00280028",
+      "title": "서울과기대 산학협력단 카자흐스탄 크즐오르다 대학 VR 실습실 장비 설치사업",
+      "result": "사전규격 의견마감 10/6 종료 후 본공고 미확인 — watch 유지 (10/8 이후 재확인 필요)"
+    },
+    {
+      "previousNoticeNo": "LH-2026-VR-SAFETY-WATCH",
+      "title": "LH VR 안전교육 콘텐츠 후속발주 추적",
+      "result": "후속 발주 미발견 — watch 유지 (확실하지 않음: LH ebid 직접 확인은 라이브 브라우저 필요)"
+    },
+    {
+      "previousNoticeNo": "KEPCO-G142600027-WATCH",
+      "title": "한국발전교육원 복합발전 VR SPACE 실습장비 후속 재공고 추적",
+      "result": "후속 재공고 미발견 — watch 유지 (확실하지 않음: 한전전자조달 직접 확인은 라이브 브라우저 필요)"
+    }
+  ],
+  "conditionalRecheck": [],
+  "privateMonitoringChannels": [
+    "대기업 협력사 포털 공개 영역(로그인 게이트로 공개 확인 불가)",
+    "협회·학회·민간재단 공개 RFP/입찰 게시판",
+    "민간기업 공지/RFP"
   ],
   "notes": [
-    "전주대학교 자체 구매/입찰 게시판에서 나라장터 외 실감형 문화관광 힐링 콘텐츠 제작지원·대국민 테스트 쇼케이스 사업을 신규 확인.",
-    "한국고용노동교육원 13억 935만원 VR 산업안전감독관 콘텐츠/교육과정 사업이 10/6 본공고로 전환.",
-    "강원대학교 XR 하이브리드 스튜디오 고도화 장비가 10/6 본공고로 전환.",
-    "국민대학교 EV 정비 디지털트윈 교육 콘텐츠는 기존 2.4억원 공고 종료 후 10/6 수정공고 2,400만원으로 새 번호가 게시되어 교체.",
-    "울산정보산업진흥원 VR 용접 2.64억원 및 친환경 도장 3.74억원 본공고 전환을 재검증.",
-    "경복대학교 안전보건과 VR 구매는 오늘 10:00 마감이지만 참가자격 등록마감 10/6 18:00이 이미 경과해 participationStatus를 확인 필요로 강화."
+    "전주대학교 자체 구매/입찰 게시판에서 AI-ICVFX 교육 프로그램 운영 및 글로벌 현장 연수 용역(공고 제2026-112호, 2억 7,000만원, 10/14 10:30 마감)을 신규 확인. 원문 HWP 직접 파싱 — 제안서+발표, 인접적합.",
+    "공공조달(G2B) 트랙 신규 0건. 10/6 저녁~10/7 오전 게시분 중 XR/실감형 관련 신규·사전규격 미발견.",
+    "학교/교육청(S2B) 트랙 신규 0건. 부산교육청 VR e-스포츠 재공고는 9/29 마감으로 제거 기록만.",
+    "민간 트랙 신규 0건. 대기업 협력사 포털·협회 게시판은 로그인 게이트로 공개 확인 불가 — 라이브 브라우저 필요.",
+    "경복대 VR 구매(10/7 10:00)와 상지대 의료기기 RA VR 콘텐츠(10/7 16:00)는 실행 시점 기준 마감 전으로 유지. 상지대 유찰/재공고 여부는 10/8 조사에서 확인.",
+    "대전시의회·대전시·대전시교육청 9/29 재난체험교육 토론회: VR·디지털트윈 결합 재난체험교육 논의 — 정책 신호 watch. 구체 공고 없음."
   ]
 }
