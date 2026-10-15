@@ -26,3 +26,11 @@ This repository is a research/output radar for bid opportunities relevant to Pel
 - Official URL is preferred; real discovery URL is acceptable when official detail cannot be verified.
 - Do not fabricate suitability, deadlines, qualifications, or official links.
 - Default dashboard remains deadline-oriented and mobile-readable.
+
+## Required missed-bid recovery checks (2026-10-15)
+- Every daily scan MUST search exact titles plus new procurement IDs for every `watch` and tracked pre-spec/plan on the original procurement platform; include KEPCO SRM / 한전전자조달 and public discovery mirrors, not just G2B. A Watch with a verified new active notice MUST be promoted to `bid` and the old Watch must not remain as a duplicate.
+- Independently search non-XR titles for 3D modeling, animation, digital education and video content on university/institution/private G2B and open company RFP channels. Preserve low-fit records in conditional research instead of omitting them silently.
+- Check current notice amendments/cancellation and all meaningful deadline types; do not infer that an earlier notice is active from search snippets alone.
+- Technical-specification-plus-price simultaneous bids are NOT price-only bids. Preserve explicit evaluation/selection mechanics and never claim presentation is mandatory based only on an attachment named `presentation`.
+- Compare procurement summary metadata with attached tender PDFs/text; if issuer name, submission deadline, or bidder eligibility contradict, flag for issuer verification rather than treating the copied boilerplate as settled truth.
+- Explicitly list newly discovered, confirmed no-longer-actionable, and unverifiable candidates, with exact source URLs; do not claim full-market completeness from search results.
