@@ -50,3 +50,6 @@ Write data/YYYY-MM-DD.json and index.html with the SAME active/watch set and sta
 - Four-channel coverage table (search path / candidates / new actionable / blocked)
 - Active bids + watches, provenance source coverage and unresolved original-document conflicts
 - GitHub SHA, CI conclusion, Render live SHA, observed site marker and one-click URLs
+
+### 2026-10-19 supplementary missed 3D asset tender rule
+Search private G2B buyers for `3D asset library`, `에셋 라이브러리`, `방송 3D`, `OBJ`, `FBX`, `GLB`, `PBR 텍스처`, `retopology`, `UV`, `3D 스캔 데이터`, and `CG 콘텐츠`, in addition to conventional VR/AR/모델링. On 2026-10-19 manual recheck uncovered S팩스페이스/스팩스페이스 R26BK01764536-000 (10/12 posted, 10/26 close, 205.7m KRW) missing from the earlier 4-channel scan. Verify issuer, per-item deliverables, restrictions, and technical vs price scoring; avoid promoting equipment-only matches (e.g. KISTI R26BK01775449).
