@@ -21,7 +21,8 @@
       "sourceURL": "https://www.sujubut.com/bid/domestic/3573758/",
       "urlType": "discovery",
       "fitEvidence": "VR 몰입형 안전보건 체험 콘텐츠 10편 + AI 영상 10편 제작, 8K/S3D·Pico G3 호환.",
-      "bidMethodEvidence": "협상에 의한 계약, 기술 90%·가격 10%; 제안서와 가격입찰서 제출, 샘플 영상 제출 요구. 발표 의무는 확인되지 않음."
+      "bidMethodEvidence": "협상에 의한 계약, 기술 90%·가격 10%; 제안서와 가격입찰서 제출, 샘플 영상 제출 요구. 발표 의무는 확인되지 않음.",
+      "url": "https://www.sujubut.com/bid/domestic/3573758/"
     },
     {
       "noticeNo": "R26BK01809556-000",
@@ -34,7 +35,8 @@
       "sourceURL": "https://www.bidnara.com/bids/v/bid/4188224/%EB%B6%80%EC%82%B0-%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%84%BC%ED%84%B0-%EC%A0%84%EC%8B%9C%EC%B2%B4%ED%97%98%EC%BD%98%ED%85%A0%EC%B8%A0-%EC%9E%91%EC%84%A4%EC%B9%98",
       "urlType": "discovery",
       "fitEvidence": "약 16.1억원 규모 전시·체험 콘텐츠 제작·설치.",
-      "bidMethodEvidence": "규격가격동시입찰; 기술규격 적격자 중 예정가격 이내 최저가 투찰자 선정."
+      "bidMethodEvidence": "규격가격동시입찰; 기술규격 적격자 중 예정가격 이내 최저가 투찰자 선정.",
+      "url": "https://www.bidnara.com/bids/v/bid/4188224/%EB%B6%80%EC%82%B0-%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%84%BC%ED%84%B0-%EC%A0%84%EC%8B%9C%EC%B2%B4%ED%97%98%EC%BD%98%ED%85%A0%EC%B8%A0-%EC%9E%91%EC%84%A4%EC%B9%98"
     },
     {
       "noticeNo": "R26BK01812973-000",
@@ -47,7 +49,8 @@
       "sourceURL": "https://jodaln.com/bid/R26BK01812973/000",
       "urlType": "discovery",
       "fitEvidence": "미디어파사드 자체 콘텐츠 제작·운영.",
-      "bidMethodEvidence": "제한경쟁·협상에 의한 계약, 기술 80%·가격 20%; 별도 발표 의무는 확인 필요."
+      "bidMethodEvidence": "제한경쟁·협상에 의한 계약, 기술 80%·가격 20%; 별도 발표 의무는 확인 필요.",
+      "url": "https://jodaln.com/bid/R26BK01812973/000"
     },
     {
       "noticeNo": "R26BK01814236-000",
@@ -60,7 +63,8 @@
       "sourceURL": "https://bidchammo.com/notice/R26BK01814236",
       "urlType": "discovery",
       "fitEvidence": "전시콘텐츠 개발 및 ICT·VR·AR 관람경험 설계.",
-      "bidMethodEvidence": "협상에 의한 계약, 기술 80%·가격 20%; 11/25 PPT 발표 명시."
+      "bidMethodEvidence": "협상에 의한 계약, 기술 80%·가격 20%; 11/25 PPT 발표 명시.",
+      "url": "https://bidchammo.com/notice/R26BK01814236"
     },
     {
       "noticeNo": "R26BK01828850-000",
@@ -73,27 +77,11 @@
       "sourceURL": "https://www.sujubut.com/bid/domestic/3582144/",
       "urlType": "discovery",
       "fitEvidence": "4K 실사·CG·편집·내레이션·영문자막 영상 4편.",
-      "bidMethodEvidence": "소액수의견적(2인 이상 견적 제출), 전자입찰."
+      "bidMethodEvidence": "소액수의견적(2인 이상 견적 제출), 전자입찰.",
+      "url": "https://www.sujubut.com/bid/domestic/3582144/"
     }
   ],
-  "updates": [
-    {
-      "noticeNo": "R26DD20889311",
-      "from": "watch",
-      "to": "bid",
-      "newNoticeNo": "R26BK01811953-000",
-      "lineage": "지역구분변경 안전성평가 VR 시뮬레이션 콘텐츠 제작",
-      "reason": "사전규격 Watch가 11/05 본공고로 전환. 기존 Watch 제거하고 본공고 카드로 승격."
-    },
-    {
-      "noticeNo": "R26BD00275676",
-      "from": "watch",
-      "to": "bid",
-      "newNoticeNo": "R26BK01791444-000",
-      "lineage": "강원랜드 스마트(VR·AI) 안전보건교육 동영상 제작",
-      "reason": "사전규격 Watch가 11/11 본공고로 전환. 기존 Watch 제거."
-    }
-  ],
+  "updates": [],
   "currentNotices": [
     {
       "noticeNo": "LH-2026-VR-SAFETY-WATCH",
@@ -326,11 +314,6 @@
       "reason": "한국광기술원 마이크로LED VR 교육콘텐츠는 10/21 마감; 11/18 재확인상 후속 공개 재공고 미확인. 낙찰/계약 정보는 독립 출처 간 표시가 충돌하므로 결과 확정은 보류."
     },
     {
-      "noticeNo": "R26BK01816030-001",
-      "status": "closed",
-      "reason": "예술의전당 한가람미술관 재개관전 전시연출은 11/18 마감일이지만 오늘 스캔 시점에 실제 제출 가능 상태를 공식 원문으로 확인하지 못해 활성 카드로 승격하지 않음."
-    },
-    {
       "noticeNo": "R26BK01836723-000",
       "status": "excluded",
       "reason": "설비 모의 시뮬레이터 및 모니터링 장치의 물품 구매/수의시담으로 콘텐츠·서비스 수행기회가 아님."
@@ -341,13 +324,17 @@
       "noticeNo": "R26BD00275676",
       "from": "watch",
       "to": "bid",
-      "newNoticeNo": "R26BK01791444-000"
+      "newNoticeNo": "R26BK01791444-000",
+      "action": "Watch→입찰 승격",
+      "reason": "11/11 본공고 확인; 기존 Watch 제거."
     },
     {
       "noticeNo": "R26DD20889311",
       "from": "watch",
       "to": "bid",
-      "newNoticeNo": "R26BK01811953-000"
+      "newNoticeNo": "R26BK01811953-000",
+      "action": "Watch→입찰 승격",
+      "reason": "11/05 본공고 확인; 기존 Watch 제거."
     },
     {
       "noticeNo": "R26BK01759843-000",
@@ -366,7 +353,7 @@
       "from": "bid",
       "to": "closed",
       "lineageFrom": "G142600027",
-      "reason": "deadline passed; no newer number found in today's search"
+      "reason": "10/22 마감; 11/18 최신 번호 미확인"
     }
   ],
   "coverage": {
