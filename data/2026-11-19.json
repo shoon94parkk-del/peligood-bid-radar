@@ -1,0 +1,718 @@
+{
+  "updated": "2026-11-19",
+  "executedAt": "2026-11-19T08:03:22+09:00",
+  "counts": {
+    "newOrPromoted": 7,
+    "totalValid": 21,
+    "bid": 16,
+    "watch": 5,
+    "preSpec": 0,
+    "plan": 0
+  },
+  "new": [
+    {
+      "noticeNo": "R26BK01797792-000",
+      "title": "2027년 교육부 유튜브 특화 운영 사업 계약",
+      "lifecycle": "bid",
+      "d": "2026.11.19 10:00",
+      "deadlineType": "제안서·가격 전자입찰서 제출 마감",
+      "amount": "4억 335만원",
+      "bidMethod": "제안서 필수",
+      "sourceURL": "https://bid24.kr/b/R26BK01797792",
+      "urlType": "discovery",
+      "fitEvidence": "교육부 유튜브 영상콘텐츠 기획·제작, 4K, CG, AI 콘텐츠, 채널 운영이 포함되어 페리굿 영상·AI 콘텐츠 역량과 직접 연계.",
+      "bidMethodEvidence": "제한경쟁·협상에 의한 계약, 기술 80%·가격 20%; 제안서와 가격입찰서 전자 제출. 별도 발표 여부는 원문 최종 확인 필요.",
+      "url": "https://bid24.kr/b/R26BK01797792"
+    },
+    {
+      "noticeNo": "R26BK01799593-000",
+      "title": "스마트모빌리티융합전공 2027년도 교과목 영상 콘텐츠 제작 용역",
+      "lifecycle": "bid",
+      "d": "2026.11.19 10:00",
+      "deadlineType": "입찰서 제출 마감",
+      "amount": "2억 4,213만 4,000원",
+      "bidMethod": "제안서 필수",
+      "sourceURL": "https://jodalfit.co.kr/notices/R26BK01799593",
+      "urlType": "discovery",
+      "fitEvidence": "스마트모빌리티 교과목 영상·디지털콘텐츠·멀티미디어 제작 및 후반작업으로 교육콘텐츠 제작 역량과 직접 연계.",
+      "bidMethodEvidence": "제한경쟁·협상에 의한 계약. 기술제안 평가가 있는 사업이며 별도 발표 의무는 확인되지 않음.",
+      "url": "https://jodalfit.co.kr/notices/R26BK01799593"
+    },
+    {
+      "noticeNo": "R26BK01818512-000",
+      "title": "2027년 온라인지식서비스(평화통일창) 영상 제작 용역",
+      "lifecycle": "bid",
+      "d": "2026.11.20 10:00",
+      "deadlineType": "입찰서 제출 마감",
+      "amount": "1억 600만원",
+      "bidMethod": "제안서 필수",
+      "sourceURL": "https://www.gonggoitda.com/bids/R26BK01818512",
+      "urlType": "discovery",
+      "fitEvidence": "온라인지식서비스 영상 제작·디지털콘텐츠 개발로 페리굿 영상·교육콘텐츠 역량과 직접 연계.",
+      "bidMethodEvidence": "제한경쟁·협상에 의한 계약(SW사업), 기술 90%·가격 10%. 공동수급 불허로 표시되며 세부 업종·실적은 첨부 원문 확인 필요.",
+      "url": "https://www.gonggoitda.com/bids/R26BK01818512"
+    },
+    {
+      "noticeNo": "R26BK01816933-000",
+      "title": "2027년 직업공통능력 인증 멀티미디어 자료 개발",
+      "lifecycle": "bid",
+      "d": "2026.11.20 18:00",
+      "deadlineType": "입찰서 제출 마감",
+      "amount": "9,000만원",
+      "bidMethod": "제안서 필수",
+      "sourceURL": "https://www.gonggoitda.com/bids/R26BK01816933",
+      "urlType": "discovery",
+      "fitEvidence": "멀티미디어 자료 개발·디지털콘텐츠개발서비스로 온라인 교육·영상/그래픽 제작 역량과 직접 연계.",
+      "bidMethodEvidence": "제한경쟁·협상에 의한 계약, 기술 90%·가격 10%. 제안서 평가 사업이며 발표 의무는 확인되지 않음.",
+      "url": "https://www.gonggoitda.com/bids/R26BK01816933"
+    },
+    {
+      "noticeNo": "R26BK01821049-000",
+      "title": "2027년 고용노동부 영상 제작 및 운영용역",
+      "lifecycle": "bid",
+      "d": "2026.12.03 10:00",
+      "deadlineType": "제안서·가격입찰서 제출 마감",
+      "amount": "5억 2,426만 2,000원",
+      "bidMethod": "제안서 필수",
+      "sourceURL": "https://bid24.kr/b/R26BK01821049",
+      "urlType": "discovery",
+      "fitEvidence": "정책 영상·웹예능·다큐·디지털 캠페인·유튜브 운영 및 AI 콘텐츠 제작이 포함되어 영상콘텐츠 역량과 직접 연계.",
+      "bidMethodEvidence": "제한경쟁·협상에 의한 계약, 기술 80%·가격 20%. 비디오물제작업 또는 방송영상독립제작자 및 동영상제작서비스 직접생산확인이 요구됨.",
+      "url": "https://bid24.kr/b/R26BK01821049"
+    },
+    {
+      "noticeNo": "R26BK01825909-000",
+      "title": "2027년 부산영상위원회 온라인홍보 운영 대행 용역",
+      "lifecycle": "bid",
+      "d": "2026.11.25 10:00",
+      "deadlineType": "입찰서 제출 마감",
+      "amount": "7,000만원",
+      "bidMethod": "제안서 필수",
+      "sourceURL": "https://bid24.kr/b/R26BK01825909",
+      "urlType": "discovery",
+      "fitEvidence": "온라인 채널 운영과 영상·숏츠·현장 스케치 콘텐츠 제작이 포함되지만 부산 내 사업장 지역제한으로 페리굿 단독 참여 가능성은 조건부.",
+      "bidMethodEvidence": "제한경쟁·협상에 의한 계약, 기술 80%·가격 20%. 공동수급 불허. 부산 소재지 제한이 있어 자격 확인 필요.",
+      "url": "https://bid24.kr/b/R26BK01825909"
+    },
+    {
+      "noticeNo": "R26BK01834352-000",
+      "title": "2027년「영상 콘텐츠 제작」용역",
+      "lifecycle": "bid",
+      "d": "2026.12.07 17:00",
+      "deadlineType": "입찰서 제출 마감",
+      "amount": "2억 7,000만원",
+      "bidMethod": "제안서 필수",
+      "sourceURL": "https://bid24.kr/b/R26BK01834352",
+      "urlType": "discovery",
+      "fitEvidence": "서울 영등포구의 2027년 영상 콘텐츠 제작으로 영상·디지털 콘텐츠 제작 역량과 직접 연계.",
+      "bidMethodEvidence": "제한경쟁·협상에 의한 계약, 기술 90%·가격 10%. 방송영상독립제작자 또는 비디오물제작업. 서울 지역제한 및 공동수급 불허로 표시되어 자격 확인 필요.",
+      "url": "https://bid24.kr/b/R26BK01834352"
+    }
+  ],
+  "updates": [],
+  "currentNotices": [
+    {
+      "noticeNo": "LH-2026-VR-SAFETY-WATCH",
+      "title": "2026년 VR 안전교육 콘텐츠 제작 및 찾아가는 VR 체험교육 운영 용역 후속·유사발주 추적",
+      "lifecycle": "watch",
+      "d": "본공고 마감 · 후속발주 Watch",
+      "deadlineType": "유사사업 반복발주 Watch",
+      "amount": "1억 4,221만 9,000원",
+      "url": "https://www.bidpro.co.kr/n0_ipchal/konggo/svc/konggo_view.asp?num=3145241",
+      "urlType": "discovery",
+      "bidMethod": "확인 필요",
+      "fitEvidence": "VR 안전교육 콘텐츠 제작과 찾아가는 VR 체험교육 운영은 페리굿의 대표 안전·교육 XR 수행영역과 직접 일치.",
+      "bidMethodEvidence": "본공고·후속공고 게시 전이라 입찰방식 미확인 — 공고 게시 시 원문으로 판정."
+    },
+    {
+      "noticeNo": "R26DD20885559",
+      "title": "마이크로LED 공정장비 VR 교육콘텐츠 개발 · 본공고 전환 추적",
+      "lifecycle": "watch",
+      "d": "2026.10.21 10:00 수의시담 종료 · 후속 재발주 Watch",
+      "deadlineType": "발주계획(입찰마감 미정)",
+      "amount": "2026-10-20 18:18 본공고 수의계약 60,000,000원, 10/21 10:00 마감(기존 10월 발주계획 대응)",
+      "url": "https://sujubut.com/bid/domestic/3518419/",
+      "urlType": "discovery",
+      "bidMethod": "확인 필요",
+      "fitEvidence": "장비 공정 VR 교육콘텐츠 개발이 직접 과업으로 명시됨. 최종 입찰 조건·기술규격은 본공고 확인",
+      "bidMethodEvidence": "G2B R26BK01782276-000: 단일예가, 수의계약/수의시담 전자시담. 일반 공모형 제안서/가격경쟁과 다름. 이미 마감되어 Watch로만 보존."
+    },
+    {
+      "noticeNo": "R26BK01751956-000",
+      "title": "강화천문과학관 천체투영관 4D 모션 시스템 구축 · 유찰·후속 재공고 추적",
+      "lifecycle": "watch",
+      "d": "2026.10.12 16:00 마감 · 재공고/유찰 추적",
+      "deadlineType": "마감된 재공고의 후속 발주 모니터링(입찰기회 아님)",
+      "amount": "4억 4,620만 4,000원",
+      "url": "https://seenthis.kr/bid/791899?sca=%EB%AC%BC%ED%92%88",
+      "urlType": "discovery",
+      "bidMethod": "제안서+발표",
+      "fitEvidence": "천체투영관의 4D 모션 시스템 및 몰입형 체험관 구축으로 XR 체험시설 구현과 연관. 과업 원문/직접생산 요건 실제 충족 확인 필요.",
+      "bidMethodEvidence": "지난 재공고 제2026-1441호 협상에 의한 계약; 제안서 직접 방문 10/12 10:00~16:00과 전자 가격입찰 동시 접수, 기술평가 예정. 새 공고 방식 미정."
+    },
+    {
+      "noticeNo": "R26BK01766191-000",
+      "title": "영화 첨단제작 후반작업 VFX·CG 용역",
+      "lifecycle": "bid",
+      "d": "2026.11.23 10:00",
+      "deadlineType": "전자 입찰마감(별도 사전자격·방문제안 접수 필요)",
+      "amount": "2억 6,400만원(VAT포함)",
+      "url": "https://dreamstorysnap.com/post/22854931",
+      "urlType": "discovery",
+      "bidMethod": "제안서 필수",
+      "fitEvidence": "3D·CG·영상제작/디지털 교육콘텐츠에 인접하나 페리굿 기존 실적·면허 충족 미확인.",
+      "bidMethodEvidence": "일반경쟁 협상계약, 현장 기술제안서+전자 가격서 필수. 별도 PT 의무는 미확인"
+    },
+    {
+      "noticeNo": "R26BK01776705-000",
+      "title": "한국영화 예토 AI 기반 영상 제작 용역",
+      "lifecycle": "bid",
+      "d": "2026.11.30 10:00",
+      "deadlineType": "가격전자투찰 11/30 10:00, 제안서 방문접수 11/16~11/30 10:00 (업무일 10:00~16:00, 점심 제외)",
+      "amount": "444,884,000원(부가세 포함), 추정가격 404,440,000원",
+      "url": "https://www.bidpro.co.kr/n0_ipchal/konggo/svc/konggo_view.asp?num=3190246",
+      "urlType": "discovery",
+      "bidMethod": "제안서 필수",
+      "fitEvidence": "AI 기반 영상/CG 제작의 직접 과업에 해당하지만 VR/XR 인터랙티브 콘텐츠인지 여부는 과업 RFP에 명시 확인되지 않음.",
+      "bidMethodEvidence": "와우포인트 10/19 G2B 공고 전문: 일반총액 협상계약; 기술80/가격20, 11/30 10시 전자투찰과 11/16~11/30 직접 방문 제안서 필수. 평가위원은 별도 요구할 때 설명받으므로 상시 PT 의무로 단정하지 않음."
+    },
+    {
+      "noticeNo": "R26BK01765449-000",
+      "title": "2027·2028년 한국거래소 영상·사진 제작 용역",
+      "lifecycle": "bid",
+      "d": "2026.11.23 14:00",
+      "deadlineType": "신청서 방문/우편 도착마감 11/20 14시, 제안서·전자 가격입찰 마감 11/23 14시",
+      "amount": "670,000,000원(VAT 포함), 추정가격 609,090,909원",
+      "url": "https://www.bidpro.co.kr/n0_ipchal/konggo/svc/konggo_view.asp?num=3186397",
+      "urlType": "discovery",
+      "bidMethod": "제안서 필수",
+      "fitEvidence": "영상·사진 콘텐츠 촬영/편집 사업이지만 XR/3D 구축 직접과업은 확인되지 않음.",
+      "bidMethodEvidence": "한국거래소 한소공고 제2026-111호 원문: 제한경쟁 협상계약, 입찰참가신청서 현장/우편 11/20 14시, 제안서 현장 11/23 14시 및 가격 G2B 전자입찰. PT 참석 의무/일정은 RFP 최종확인 전."
+    },
+    {
+      "noticeNo": "R26BD00287573",
+      "title": "2026학년도 AI·DX 교양교과목 온라인 학습콘텐츠 촬영 및 편집 위탁 용역",
+      "lifecycle": "watch",
+      "d": "2026.10.25 23:59 사전규격 종료 · 본공고 후속 Watch",
+      "deadlineType": "10/25 의견제출 종료(입찰서 제출기한 아님); 신규 G2B 입찰공고번호 추적",
+      "amount": "44,000,000원(사전규격 사업금액, VAT 세부구분 미검증)",
+      "url": "https://kimkj.com/ai-board/?mod=document&uid=19503",
+      "urlType": "discovery",
+      "bidMethod": "확인 필요",
+      "fitEvidence": "AI·DX 교양 온라인 학습영상 제작으로 페리굿 디지털 교육·영상콘텐츠와 인접.",
+      "bidMethodEvidence": "나라장터 사전규격 R26BD00287573(2026.10.20 15:57, 10/25 23:59 의견마감), 실제 본입찰의 제안서·발표방식은 아직 미확인."
+    },
+    {
+      "noticeNo": "R26BK01786133-000",
+      "title": "2027년 안전한-TV 영상 제작 및 채널 운영",
+      "lifecycle": "bid",
+      "d": "2026.12.08 10:00",
+      "deadlineType": "11/?? 본입찰 예정, G2B 제안서·가격 12/08 10시까지, 참가업종 등록 12/07 18시",
+      "amount": "272,362,000원(VAT 포함), 추정가격 245,454,545원",
+      "url": "https://sujubut.com/bid/domestic/3538307/",
+      "urlType": "discovery",
+      "bidMethod": "제안서 필수",
+      "fitEvidence": "산업·재난안전 교육 영상 전문 역량에 인접하나 VR 구현 직접 의무 미확인.",
+      "bidMethodEvidence": "행정안전부 R26BK01786133: 제한경쟁 협상 기술90 가격10, 10/28 14:38 공고, 12/08 10시 마감. 대면 발표 의무는 공고 RFP 확인 필요."
+    },
+    {
+      "noticeNo": "R26BD00289675",
+      "title": "수원관광 홍보용 DOOH 디지털옥외광고 영상 제작 사전규격 후속 추적",
+      "lifecycle": "watch",
+      "d": "2026.10.28 23:59 사전규격 종료 · 신규 본공고 Watch",
+      "deadlineType": "10/28 23:59 사전규격 의견제출 종료(입찰서 마감 아님); 정식 입찰공고번호 대기",
+      "amount": "95,000,000원(사전규격 사업금액; VAT 세부 확인)",
+      "url": "https://sujubut.com/bid/domestic/3528830/",
+      "urlType": "discovery",
+      "bidMethod": "확인 필요",
+      "fitEvidence": "홍보 Full-DOOH 영상 제작으로 디지털영상 관련, VR/3D 직접 제작 의무 미확인.",
+      "bidMethodEvidence": "2026-10-23 사전규격 R26BD00289675 의견마감 10/28 23:59, 협상·제안서 등 본입찰방법 아직 공고되지 않음."
+    },
+    {
+      "noticeNo": "R26BK01811953-000",
+      "title": "지역구분변경 안전성평가 VR 시뮬레이션 콘텐츠 제작",
+      "lifecycle": "bid",
+      "d": "2026.11.19 10:00",
+      "deadlineType": "입찰서 제출 마감",
+      "amount": "1억 9,981만 4,800원",
+      "url": "https://todayjiwon.co.kr/procurement/458db2f1-6f0e-4afc-a032-b8a6f52d771d",
+      "urlType": "discovery",
+      "bidMethod": "제안서 필수",
+      "fitEvidence": "과업은 핵심 적합이나 공개 상세에서 확인된 업종이 패키지소프트웨어개발·공급사업으로, 페리굿의 현재 등록업종 충족 여부 확인 필요.",
+      "bidMethodEvidence": "협상에 의한 계약, 기술능력 90%·가격 10%로 확인. 발표 의무는 확인되지 않아 제안서+발표로 분류하지 않음."
+    },
+    {
+      "noticeNo": "R26BK01805495-000",
+      "title": "2027년 서울주택도시개발공사 유튜브 콘텐츠 제작 및 운영 협력사 선정",
+      "lifecycle": "bid",
+      "d": "2026.11.20 11:00",
+      "deadlineType": "제안서·가격입찰서 제출 마감",
+      "amount": "2억 4,000만원",
+      "url": "https://pikk.co.kr/bid/6782",
+      "urlType": "discovery",
+      "bidMethod": "제안서+발표",
+      "fitEvidence": "영상 제작·쇼츠·채널 운영이 핵심 과업. 직접생산확인 및 세부 자격은 원문 확인 필요.",
+      "bidMethodEvidence": "협상에 의한 계약. 1차 제안서 심사 후 PT 심사 일정이 명시되어 있어 제안서+발표로 분류."
+    },
+    {
+      "noticeNo": "R26BK01791444-000",
+      "title": "강원랜드 스마트(VR·AI) 안전보건교육 동영상 제작",
+      "lifecycle": "bid",
+      "d": "2026.12.02 10:00",
+      "deadlineType": "제안서·가격입찰서 제출 마감",
+      "amount": "2억원",
+      "url": "https://www.sujubut.com/bid/domestic/3573758/",
+      "urlType": "discovery",
+      "bidMethod": "제안서 필수",
+      "fitEvidence": "VR 몰입형 안전보건 체험 콘텐츠 10편, 8K/S3D, Pico G3 호환 및 AI 영상 10편 제작이 명시되어 페리굿의 VR 안전교육 콘텐츠 역량과 직접 일치.",
+      "bidMethodEvidence": "제한경쟁·협상에 의한 계약, 기술 90%·가격 10%. 제안서와 가격입찰서 온라인 제출. 별도 샘플 영상 제출 요구가 있어 제안서 필수로 분류; 발표 의무는 확인되지 않음."
+    },
+    {
+      "noticeNo": "R26BK01809556-000",
+      "title": "부산 업사이클센터 전시·체험(콘텐츠) 제작·설치",
+      "lifecycle": "bid",
+      "d": "2026.11.20 10:00",
+      "deadlineType": "규격·가격 전자입찰서 제출 마감",
+      "amount": "16억 1,079만원",
+      "url": "https://www.bidnara.com/bids/v/bid/4188224/%EB%B6%80%EC%82%B0-%EC%97%85%EC%82%AC%EC%9D%B4%ED%81%B4%EC%84%BC%ED%84%B0-%EC%A0%84%EC%8B%9C%EC%B2%B4%ED%97%98%EC%BD%98%ED%85%A0%EC%B8%A0-%EC%9E%91%EC%84%A4%EC%B9%98",
+      "urlType": "discovery",
+      "bidMethod": "가격입찰",
+      "fitEvidence": "전시·체험 콘텐츠 제작·설치가 직접 관련되지만 실내건축 및 디자인 업종 요건 때문에 페리굿 단독보다는 적격 파트너와의 분담/협력 가능성을 먼저 확인해야 함.",
+      "bidMethodEvidence": "규격가격동시입찰. 기술규격 적격자 중 예정가격 이내 최저가 투찰자 선정이므로 일반 가격입찰과 달리 기술규격 적격 단계가 선행됨."
+    },
+    {
+      "noticeNo": "R26BK01828850-000",
+      "title": "목포시 강소형 스마트시티 조성사업 홍보영상 제작 용역",
+      "lifecycle": "bid",
+      "d": "2026.11.19 14:00",
+      "deadlineType": "견적서 제출 마감",
+      "amount": "2,000만원",
+      "url": "https://www.sujubut.com/bid/domestic/3582144/",
+      "urlType": "discovery",
+      "bidMethod": "가격입찰",
+      "fitEvidence": "홍보영상 기획·촬영·편집·CG·자막의 직접 제작 과업이며 별도 대형 시스템 구축 없이 영상 제작 역량으로 대응 가능.",
+      "bidMethodEvidence": "소액수의견적(2인 이상 견적 제출), 전자입찰. 제안서 평가가 아닌 견적 경쟁."
+    },
+    {
+      "noticeNo": "R26BK01797792-000",
+      "title": "2027년 교육부 유튜브 특화 운영 사업 계약",
+      "lifecycle": "bid",
+      "d": "2026.11.19 10:00",
+      "deadlineType": "제안서·가격 전자입찰서 제출 마감",
+      "amount": "4억 335만원",
+      "bidMethod": "제안서 필수",
+      "sourceURL": "https://bid24.kr/b/R26BK01797792",
+      "urlType": "discovery",
+      "fitEvidence": "교육부 유튜브 영상콘텐츠 기획·제작, 4K, CG, AI 콘텐츠, 채널 운영이 포함되어 페리굿 영상·AI 콘텐츠 역량과 직접 연계.",
+      "bidMethodEvidence": "제한경쟁·협상에 의한 계약, 기술 80%·가격 20%; 제안서와 가격입찰서 전자 제출. 별도 발표 여부는 원문 최종 확인 필요.",
+      "url": "https://bid24.kr/b/R26BK01797792"
+    },
+    {
+      "noticeNo": "R26BK01799593-000",
+      "title": "스마트모빌리티융합전공 2027년도 교과목 영상 콘텐츠 제작 용역",
+      "lifecycle": "bid",
+      "d": "2026.11.19 10:00",
+      "deadlineType": "입찰서 제출 마감",
+      "amount": "2억 4,213만 4,000원",
+      "bidMethod": "제안서 필수",
+      "sourceURL": "https://jodalfit.co.kr/notices/R26BK01799593",
+      "urlType": "discovery",
+      "fitEvidence": "스마트모빌리티 교과목 영상·디지털콘텐츠·멀티미디어 제작 및 후반작업으로 교육콘텐츠 제작 역량과 직접 연계.",
+      "bidMethodEvidence": "제한경쟁·협상에 의한 계약. 기술제안 평가가 있는 사업이며 별도 발표 의무는 확인되지 않음.",
+      "url": "https://jodalfit.co.kr/notices/R26BK01799593"
+    },
+    {
+      "noticeNo": "R26BK01818512-000",
+      "title": "2027년 온라인지식서비스(평화통일창) 영상 제작 용역",
+      "lifecycle": "bid",
+      "d": "2026.11.20 10:00",
+      "deadlineType": "입찰서 제출 마감",
+      "amount": "1억 600만원",
+      "bidMethod": "제안서 필수",
+      "sourceURL": "https://www.gonggoitda.com/bids/R26BK01818512",
+      "urlType": "discovery",
+      "fitEvidence": "온라인지식서비스 영상 제작·디지털콘텐츠 개발로 페리굿 영상·교육콘텐츠 역량과 직접 연계.",
+      "bidMethodEvidence": "제한경쟁·협상에 의한 계약(SW사업), 기술 90%·가격 10%. 공동수급 불허로 표시되며 세부 업종·실적은 첨부 원문 확인 필요.",
+      "url": "https://www.gonggoitda.com/bids/R26BK01818512"
+    },
+    {
+      "noticeNo": "R26BK01816933-000",
+      "title": "2027년 직업공통능력 인증 멀티미디어 자료 개발",
+      "lifecycle": "bid",
+      "d": "2026.11.20 18:00",
+      "deadlineType": "입찰서 제출 마감",
+      "amount": "9,000만원",
+      "bidMethod": "제안서 필수",
+      "sourceURL": "https://www.gonggoitda.com/bids/R26BK01816933",
+      "urlType": "discovery",
+      "fitEvidence": "멀티미디어 자료 개발·디지털콘텐츠개발서비스로 온라인 교육·영상/그래픽 제작 역량과 직접 연계.",
+      "bidMethodEvidence": "제한경쟁·협상에 의한 계약, 기술 90%·가격 10%. 제안서 평가 사업이며 발표 의무는 확인되지 않음.",
+      "url": "https://www.gonggoitda.com/bids/R26BK01816933"
+    },
+    {
+      "noticeNo": "R26BK01821049-000",
+      "title": "2027년 고용노동부 영상 제작 및 운영용역",
+      "lifecycle": "bid",
+      "d": "2026.12.03 10:00",
+      "deadlineType": "제안서·가격입찰서 제출 마감",
+      "amount": "5억 2,426만 2,000원",
+      "bidMethod": "제안서 필수",
+      "sourceURL": "https://bid24.kr/b/R26BK01821049",
+      "urlType": "discovery",
+      "fitEvidence": "정책 영상·웹예능·다큐·디지털 캠페인·유튜브 운영 및 AI 콘텐츠 제작이 포함되어 영상콘텐츠 역량과 직접 연계.",
+      "bidMethodEvidence": "제한경쟁·협상에 의한 계약, 기술 80%·가격 20%. 비디오물제작업 또는 방송영상독립제작자 및 동영상제작서비스 직접생산확인이 요구됨.",
+      "url": "https://bid24.kr/b/R26BK01821049"
+    },
+    {
+      "noticeNo": "R26BK01825909-000",
+      "title": "2027년 부산영상위원회 온라인홍보 운영 대행 용역",
+      "lifecycle": "bid",
+      "d": "2026.11.25 10:00",
+      "deadlineType": "입찰서 제출 마감",
+      "amount": "7,000만원",
+      "bidMethod": "제안서 필수",
+      "sourceURL": "https://bid24.kr/b/R26BK01825909",
+      "urlType": "discovery",
+      "fitEvidence": "온라인 채널 운영과 영상·숏츠·현장 스케치 콘텐츠 제작이 포함되지만 부산 내 사업장 지역제한으로 페리굿 단독 참여 가능성은 조건부.",
+      "bidMethodEvidence": "제한경쟁·협상에 의한 계약, 기술 80%·가격 20%. 공동수급 불허. 부산 소재지 제한이 있어 자격 확인 필요.",
+      "url": "https://bid24.kr/b/R26BK01825909"
+    },
+    {
+      "noticeNo": "R26BK01834352-000",
+      "title": "2027년「영상 콘텐츠 제작」용역",
+      "lifecycle": "bid",
+      "d": "2026.12.07 17:00",
+      "deadlineType": "입찰서 제출 마감",
+      "amount": "2억 7,000만원",
+      "bidMethod": "제안서 필수",
+      "sourceURL": "https://bid24.kr/b/R26BK01834352",
+      "urlType": "discovery",
+      "fitEvidence": "서울 영등포구의 2027년 영상 콘텐츠 제작으로 영상·디지털 콘텐츠 제작 역량과 직접 연계.",
+      "bidMethodEvidence": "제한경쟁·협상에 의한 계약, 기술 90%·가격 10%. 방송영상독립제작자 또는 비디오물제작업. 서울 지역제한 및 공동수급 불허로 표시되어 자격 확인 필요.",
+      "url": "https://bid24.kr/b/R26BK01834352"
+    }
+  ],
+  "removedOrExcluded": [
+    {
+      "noticeNo": "R26BK01759843-000",
+      "status": "expired",
+      "reason": "11/17 10:00 마감 경과."
+    },
+    {
+      "noticeNo": "R26BK01815776-000",
+      "status": "expired",
+      "reason": "11/17 17:00 마감 경과."
+    },
+    {
+      "noticeNo": "G142600030",
+      "status": "closed",
+      "reason": "10/22 마감. 11/18 재검색에서 더 최신 SRM 재공고 번호 확인 못함; G142600027→G142600030 lineage는 Watch 추적."
+    },
+    {
+      "noticeNo": "R26BK01782276-000",
+      "status": "closed",
+      "reason": "한국광기술원 마이크로LED VR 교육콘텐츠는 10/21 마감; 11/18 재확인상 후속 공개 재공고 미확인. 낙찰/계약 정보는 독립 출처 간 표시가 충돌하므로 결과 확정은 보류."
+    },
+    {
+      "noticeNo": "R26BK01836723-000",
+      "status": "excluded",
+      "reason": "설비 모의 시뮬레이터 및 모니터링 장치의 물품 구매/수의시담으로 콘텐츠·서비스 수행기회가 아님."
+    },
+    {
+      "noticeNo": "R26BK01812973-000",
+      "status": "expired",
+      "reason": "11/18 11:00 마감 경과. 오늘 활성 카드에서 제거."
+    },
+    {
+      "noticeNo": "R26BK01814236-000",
+      "status": "expired",
+      "reason": "11/18 17:00 마감 경과. 오늘 활성 카드에서 제거."
+    },
+    {
+      "noticeNo": "R26BK01838845-000",
+      "status": "excluded",
+      "reason": "국립무형유산원 한지 특별전 온라인 전시 콘텐츠는 수의시담이며 자격등록이 11/18 18:00 마감; 공개 경쟁 신규참여 기회로 보지 않음."
+    },
+    {
+      "noticeNo": "R26BK01839772-000",
+      "status": "excluded",
+      "reason": "서울도시철도엔지니어링 물류플랫폼 홍보영상은 수의시담이고 자격등록이 11/18 18:00 마감; 신규 참여 가능성 없음."
+    }
+  ],
+  "lifecycleChanges": [
+    {
+      "noticeNo": "R26BD00275676",
+      "from": "watch",
+      "to": "bid",
+      "newNoticeNo": "R26BK01791444-000",
+      "action": "Watch→입찰 승격",
+      "reason": "11/11 본공고 확인; 기존 Watch 제거."
+    },
+    {
+      "noticeNo": "R26DD20889311",
+      "from": "watch",
+      "to": "bid",
+      "newNoticeNo": "R26BK01811953-000",
+      "action": "Watch→입찰 승격",
+      "reason": "11/05 본공고 확인; 기존 Watch 제거."
+    },
+    {
+      "noticeNo": "R26BK01759843-000",
+      "from": "bid",
+      "to": "closed",
+      "reason": "deadline passed"
+    },
+    {
+      "noticeNo": "R26BK01815776-000",
+      "from": "bid",
+      "to": "closed",
+      "reason": "deadline passed"
+    },
+    {
+      "noticeNo": "G142600030",
+      "from": "bid",
+      "to": "closed",
+      "lineageFrom": "G142600027",
+      "reason": "10/22 마감; 11/18 최신 번호 미확인"
+    },
+    {
+      "noticeNo": "R26BK01812973-000",
+      "from": "bid",
+      "to": "closed",
+      "reason": "11/18 11:00 마감 경과"
+    },
+    {
+      "noticeNo": "R26BK01814236-000",
+      "from": "bid",
+      "to": "closed",
+      "reason": "11/18 17:00 마감 경과"
+    }
+  ],
+  "coverage": {
+    "note": "공개 색인·접근 가능한 원문/상세를 기준으로 2026-11-19 KST에 교차 조사했으며 전수조사를 의미하지 않음.",
+    "tracks": {
+      "A": {
+        "status": "부분 확인",
+        "searched": [
+          "G2B 본공고·정정·취소·사전규격",
+          "한전 SRM",
+          "D2B",
+          "LH/KORAIL/공공기관·박물관·과학관 공개조달",
+          "BidPro/SeenThis/Jodaln/입찰24 등"
+        ],
+        "limitations": "한전 SRM 일부 직접 상세, 일부 기관 자체조달 및 첨부 원문은 접근·색인 제한. G2B/공공데이터 기반 상세와 BidPro·SeenThis·Jodaln·입찰24 등 발견 페이지를 교차 사용."
+      },
+      "B": {
+        "status": "부분 확인",
+        "searched": [
+          "대학·산학협력단·대학병원·K-MOOC 공개 공고",
+          "G2B 대학 관련 공고",
+          "국립공주대학교산학협력단 스마트모빌리티 교과목 영상",
+          "대학 디지털콘텐츠·온라인교육 공고"
+        ],
+        "limitations": "대학 자체구매·산학협력단 비색인/로그인 영역은 전수확인 불가. 국립공주대 스마트모빌리티 영상 공고 등 G2B 색인 공고를 확인."
+      },
+      "C": {
+        "status": "부분 확인",
+        "searched": [
+          "교육청·학교·S2B 공개 색인",
+          "교육훈련·학교 관련 G2B",
+          "교육부 유튜브 특화 운영",
+          "교육·온라인지식서비스 영상"
+        ],
+        "limitations": "S2B 및 학교·교육청 로그인/비색인 영역은 직접 전수확인 불가. 공개 색인과 G2B 교육콘텐츠 공고를 확인."
+      },
+      "D": {
+        "status": "부분 확인",
+        "searched": [
+          "공개 민간/기관 RFP",
+          "G2B 민간발주",
+          "영상·애니메이션 제작사/협회 공개 검색",
+          "서울 영등포구·부산영상위원회·고용노동부 영상/온라인홍보 공고",
+          "민간·기관 홍보영상 및 콘텐츠"
+        ],
+        "limitations": "비공개·회원전용 RFP는 확인 불가. 공개 민간/기관 RFP와 G2B 민간발주를 확인했으며 수의시담·자격마감 건은 제외."
+      }
+    },
+    "keywordGroups": [
+      "VR/AR/MR/XR/4D",
+      "안전·소방·재난·의료·정비 시뮬레이터",
+      "3D/복셀/키애니메이션/CGI/디지털트윈",
+      "온라인교육/K-MOOC/AI 과학 시뮬레이션",
+      "박물관/홍보/교육영상/모션그래픽/전시체험/버추얼프로덕션"
+    ],
+    "specificWatchChecks": [
+      {
+        "query": "강원랜드 스마트(VR·AI) 안전보건교육 동영상 제작",
+        "result": "R26BK01791444-000 본공고 확인"
+      },
+      {
+        "query": "한국가스안전공사 지역구분변경 안전성평가 VR 시뮬레이션",
+        "result": "R26BK01811953-000 본공고 확인"
+      },
+      {
+        "query": "한국광기술원 마이크로LED 공정장비 VR 교육콘텐츠",
+        "result": "R26BK01782276-000 10/21 마감; 최신 재공고 미확인"
+      },
+      {
+        "query": "강화천문과학관 4D 모션 시스템",
+        "result": "R26BK01751956-000 10/12 마감; 최신 재공고 미확인"
+      },
+      {
+        "query": "한전 한국발전교육원 복합발전 VR SPACE",
+        "result": "G142600030 10/22 마감; 최신 재공고 번호 미확인"
+      },
+      {
+        "query": "한전 한국발전교육원 복합발전 VR SPACE",
+        "result": "G142600030 10/22 마감; 11/19 재검색에서도 더 최신 SRM 재공고 번호 미확인. Watch lineage 유지."
+      },
+      {
+        "query": "강원랜드 스마트(VR·AI) 안전보건교육 동영상 제작",
+        "result": "R26BK01791444-000 본공고 유지; 12/2 10:00 마감."
+      },
+      {
+        "query": "한국가스안전공사 지역구분변경 안전성평가 VR 시뮬레이션",
+        "result": "R26BK01811953-000 본공고 유지; 11/19 10:00 마감."
+      },
+      {
+        "query": "강화천문과학관 4D 모션 시스템",
+        "result": "R26BK01751956-000 10/12 마감; 11/19 재검색상 최신 공개 재공고 미확인."
+      },
+      {
+        "query": "한국광기술원 마이크로LED 공정장비 VR 교육콘텐츠",
+        "result": "R26BK01782276-000 10/21 마감; 11/19 재검색상 최신 공개 재공고 미확인."
+      }
+    ]
+  },
+  "exclusions": [
+    {
+      "noticeNo": "R26BK01836723-000",
+      "reason": "모의 시뮬레이터 장비 자체 구매/수의시담 — 콘텐츠·교육서비스가 아니라 장비 납품"
+    },
+    {
+      "noticeNo": "R26BK01823970-000",
+      "reason": "회로·알고리즘 해석 소프트웨어 구매 — 페리굿 과업과 무관"
+    },
+    {
+      "noticeNo": "R26BK01813030-000",
+      "reason": "촉각 액추에이터 재료·구조 컨설팅 — VR/콘텐츠 수행과 직접 연계되지 않음"
+    }
+  ],
+  "evidence": [
+    {
+      "noticeNo": "R26BK01809556-000",
+      "sources": [
+        "turn870182search2",
+        "turn870182search3"
+      ],
+      "confidence": "교차확인",
+      "note": "16.1억원, 11/20 10:00, 규격가격동시입찰. 업종 조합이 복수라 단독 참여는 조건부."
+    },
+    {
+      "noticeNo": "R26BK01812973-000",
+      "sources": [
+        "turn296191search0",
+        "turn296191search8",
+        "turn296191search12"
+      ],
+      "confidence": "교차확인",
+      "note": "8천만원, 11/18 11:00, 기술80/가격20, 동영상제작 관련 업종 제한."
+    },
+    {
+      "noticeNo": "R26BK01814236-000",
+      "sources": [
+        "turn185037search0",
+        "turn296191search11"
+      ],
+      "confidence": "교차확인",
+      "note": "9,690만원, 11/18 17:00 방문 제출, VR/AR 미디어 연출 포함, 학술연구용역 자격 및 11/25 발표."
+    },
+    {
+      "noticeNo": "R26BK01828850-000",
+      "sources": [
+        "turn377888search1",
+        "turn377888search2",
+        "turn377888search4"
+      ],
+      "confidence": "교차확인",
+      "note": "2천만원, 11/19 14:00, 비디오물제작업, 소액수의견적; 직접생산·소기업 요건."
+    },
+    {
+      "noticeNo": "R26BK01791444-000",
+      "sources": [
+        "turn400677search0",
+        "turn400677search3",
+        "turn400677search5"
+      ],
+      "confidence": "교차확인",
+      "note": "2억원, 12/2 10:00, VR 10편+AI 영상 10편, 기술90/가격10, 공동수급 불허."
+    },
+    {
+      "noticeNo": "R26BK01811953-000",
+      "sources": [
+        "turn487281search4",
+        "turn487281search8",
+        "turn487281search9"
+      ],
+      "confidence": "교차확인",
+      "note": "배정예산 199,814,800원, 11/19 10:00, 자격등록 11/18 18:00, 협상계약 기술90/가격10."
+    },
+    {
+      "noticeNo": "R26BK01797792-000",
+      "sources": [
+        "https://bid24.kr/b/R26BK01797792"
+      ],
+      "confidence": "교차확인",
+      "note": "4억 335만원, 2026.11.19 10:00, 제안서 필수; 상세 조건은 첨부 원문 추가 확인 필요."
+    },
+    {
+      "noticeNo": "R26BK01799593-000",
+      "sources": [
+        "https://jodalfit.co.kr/notices/R26BK01799593"
+      ],
+      "confidence": "교차확인",
+      "note": "2억 4,213만 4,000원, 2026.11.19 10:00, 제안서 필수; 상세 조건은 첨부 원문 추가 확인 필요."
+    },
+    {
+      "noticeNo": "R26BK01818512-000",
+      "sources": [
+        "https://www.gonggoitda.com/bids/R26BK01818512"
+      ],
+      "confidence": "교차확인",
+      "note": "1억 600만원, 2026.11.20 10:00, 제안서 필수; 상세 조건은 첨부 원문 추가 확인 필요."
+    },
+    {
+      "noticeNo": "R26BK01816933-000",
+      "sources": [
+        "https://www.gonggoitda.com/bids/R26BK01816933"
+      ],
+      "confidence": "교차확인",
+      "note": "9,000만원, 2026.11.20 18:00, 제안서 필수; 상세 조건은 첨부 원문 추가 확인 필요."
+    },
+    {
+      "noticeNo": "R26BK01821049-000",
+      "sources": [
+        "https://bid24.kr/b/R26BK01821049"
+      ],
+      "confidence": "교차확인",
+      "note": "5억 2,426만 2,000원, 2026.12.03 10:00, 제안서 필수; 상세 조건은 첨부 원문 추가 확인 필요."
+    },
+    {
+      "noticeNo": "R26BK01825909-000",
+      "sources": [
+        "https://bid24.kr/b/R26BK01825909"
+      ],
+      "confidence": "교차확인",
+      "note": "7,000만원, 2026.11.25 10:00, 제안서 필수; 상세 조건은 첨부 원문 추가 확인 필요."
+    },
+    {
+      "noticeNo": "R26BK01834352-000",
+      "sources": [
+        "https://bid24.kr/b/R26BK01834352"
+      ],
+      "confidence": "교차확인",
+      "note": "2억 7,000만원, 2026.12.07 17:00, 제안서 필수; 상세 조건은 첨부 원문 추가 확인 필요."
+    }
+  ],
+  "keywordGroups": []
+}
