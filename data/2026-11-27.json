@@ -141,33 +141,7 @@
       "sourceURL": "https://www.modoobid.co.kr/bid/2611S01859162000/2026"
     }
   ],
-  "updates": [
-    {
-      "noticeNo": "R26BK01813987-000",
-      "status": "newly-confirmed",
-      "note": "2026-11-27 broad scan confirmed current actionable notice; provenance retained."
-    },
-    {
-      "noticeNo": "R26BK01825212-000",
-      "status": "newly-confirmed",
-      "note": "2026-11-27 broad scan confirmed current actionable notice; provenance retained."
-    },
-    {
-      "noticeNo": "R26BK01841055-000",
-      "status": "newly-confirmed",
-      "note": "2026-11-27 broad scan confirmed current actionable notice; provenance retained."
-    },
-    {
-      "noticeNo": "R26BK01844814-000",
-      "status": "newly-confirmed",
-      "note": "2026-11-27 broad scan confirmed current actionable notice; provenance retained."
-    },
-    {
-      "noticeNo": "R26BK01859162-000",
-      "status": "newly-confirmed",
-      "note": "2026-11-27 broad scan confirmed current actionable notice; provenance retained."
-    }
-  ],
+  "updates": [],
   "removedOrExcluded": [
     {
       "noticeNo": "R26BK01822551-000",
@@ -1096,6 +1070,110 @@
       "noticeType": "등록공고",
       "peligoodFit": "높음",
       "sourceURL": "https://www.nmc.or.kr/nmc/board/B0000003/28445"
+    },
+    {
+      "noticeNo": "R26BK01813987-000",
+      "title": "2027년 미국 소재 한국 문화유산 디지털 콘텐츠 전시",
+      "lifecycle": "bid",
+      "d": "2026.11.27 10:00",
+      "deadlineType": "전자입찰 마감(자격등록·공동수급협정 11/26 18:00)",
+      "amount": "4억 6,582만 1,200원(VAT 포함), 추정가격 4억 2,000만원",
+      "url": "https://narais.com/b/servc/R26BK01813987/000",
+      "urlType": "discovery",
+      "bidMethod": "제안서 필수",
+      "fitEvidence": "미국 소재 한국 문화유산의 디지털 콘텐츠 전시 기획·대행으로 전시·체험·디지털 콘텐츠 역량과 직접 연계.",
+      "bidMethodEvidence": "제한경쟁·협상에 의한 계약, 기술 90%·가격 10%. 제안요청서 첨부 확인. 별도 발표 의무는 확인 필요.",
+      "t": "active",
+      "n": 1,
+      "h": 1,
+      "a": "국외소재문화유산재단",
+      "source": "국외소재문화유산재단·나라장터",
+      "f": "조건부",
+      "why": "4.2억원 규모 디지털 콘텐츠 전시이며 전국 참여 가능. 다만 행사대행업 중심 자격이라 단독 수행 적합성은 RFP 확인 필요.",
+      "task": "미국 소재 한국 문화유산 디지털 콘텐츠 전시 기획·대행",
+      "q": "기타자유업(행사대행업)",
+      "j": "공동이행 가능",
+      "noticeType": "본공고",
+      "peligoodFit": "조건부",
+      "sourceURL": "https://narais.com/b/servc/R26BK01813987/000"
+    },
+    {
+      "noticeNo": "R26BK01825212-000",
+      "title": "전기차 주행 특성 기반 탑승 편의성 분석을 위한 디지털트윈 플랫폼 구축 용역",
+      "lifecycle": "bid",
+      "d": "2026.11.27 10:00",
+      "deadlineType": "전자입찰 마감(자격등록·공동수급협정 11/26 18:00)",
+      "amount": "3억 258만 9,000원(VAT 포함), 추정가격 2억 7,272만 7,273원",
+      "url": "https://work.00data.kr/projects/R26BK01825212",
+      "urlType": "discovery",
+      "bidMethod": "제안서 필수",
+      "fitEvidence": "차량·시트 시험데이터를 Data Hub로 통합하고 디지털트윈·시각화·Dashboard·AI 학습모델을 구축하는 사업으로 디지털트윈/3D/가상환경 역량과 직접 인접.",
+      "bidMethodEvidence": "제한경쟁·협상에 의한 계약(SW), 기술 90%·가격 10%. 제안서·가격입찰서 전자 제출. 발표 의무는 확인 필요.",
+      "t": "active",
+      "n": 1,
+      "h": 1,
+      "a": "재단법인 경북테크노파크",
+      "source": "경북테크노파크·나라장터",
+      "f": "조건부",
+      "why": "디지털트윈 핵심 사업이나 소프트웨어사업자(1468)·직접생산·중소기업 요건이 있어 단독 참가 가능성 확인 필요.",
+      "task": "Data Hub·디지털트윈 환경·Replay·시각화·분석모델·Dashboard 구축",
+      "q": "소프트웨어사업자(컴퓨터관련서비스사업, 업종코드 1468), 직접생산확인, 중소기업·소상공인 등",
+      "j": "공동이행 가능",
+      "noticeType": "본공고",
+      "peligoodFit": "조건부",
+      "sourceURL": "https://work.00data.kr/projects/R26BK01825212"
+    },
+    {
+      "noticeNo": "R26BK01844814-000",
+      "title": "목포가톨릭대학교 해군 장병 도박중독 예방 VR 교육콘텐츠 제작",
+      "lifecycle": "bid",
+      "d": "2026.12.08 10:00",
+      "deadlineType": "전자입찰 마감(자격등록 12/8 10:00)",
+      "amount": "3,400만원(VAT 포함), 추정가격 3,090만 9,091원",
+      "url": "https://bid24.kr/b/R26BK01844814",
+      "urlType": "discovery",
+      "bidMethod": "제안서 필수",
+      "fitEvidence": "13개 장면의 1인칭 3D 입체 VR 영상과 2D 버전, 공간·등장인물 3D 제작, 성우·음향·자막까지 포함해 페리굿의 VR 교육콘텐츠 역량과 매우 직접적.",
+      "bidMethodEvidence": "일반경쟁·협상에 의한 계약, 기술 80%·가격 20%. 제안요청서와 VR 시나리오 첨부 확인. 별도 발표 의무는 확인 필요.",
+      "t": "active",
+      "n": 1,
+      "h": 1,
+      "a": "목포가톨릭대학교",
+      "source": "목포가톨릭대학교·나라장터",
+      "f": "매우 높음",
+      "why": "3D VR 교육콘텐츠 자체가 핵심 과업이고 비디오물제작업 자격으로 참가 가능.",
+      "task": "13개 장면 1인칭 3D VR·2D 교육콘텐츠 제작, 3D 공간/인물·음향·자막",
+      "q": "비디오물제작업",
+      "j": "공동수급 불허",
+      "noticeType": "본공고",
+      "peligoodFit": "매우 높음",
+      "sourceURL": "https://bid24.kr/b/R26BK01844814"
+    },
+    {
+      "noticeNo": "R26BK01859162-000",
+      "title": "2027년 댐-하천 디지털트윈 물관리플랫폼 유지보수",
+      "lifecycle": "bid",
+      "d": "2026.12.08 10:00",
+      "deadlineType": "전자입찰 마감(자격등록·공동수급협정 12/7 18:00)",
+      "amount": "28억 1,253만 800원(VAT 포함), 추정가격 25억 4,181만 8,182원",
+      "url": "https://www.modoobid.co.kr/bid/2611S01859162000/2026",
+      "urlType": "discovery",
+      "bidMethod": "제안서 필수",
+      "fitEvidence": "댐·하천 물관리 디지털트윈 플랫폼 유지보수로 디지털트윈·가상공간 영역과 직접 연관. 다만 대규모 SW 운영·유지보수가 핵심이라 페리굿 단독 적합성은 낮을 수 있음.",
+      "bidMethodEvidence": "일반경쟁·협상에 의한 계약(SW사업), 기술 90%·가격 10%, 공동이행 또는 분담이행 가능. 설명회·제안요청서 조건은 원문 확인 필요.",
+      "t": "active",
+      "n": 1,
+      "h": 0,
+      "a": "기후에너지환경부 한강홍수통제소",
+      "source": "한강홍수통제소·나라장터",
+      "f": "조건부",
+      "why": "28억원대 대형 디지털트윈 유지보수 사업으로 컨소시엄/협력 제안 가치가 있으나 단독 적합성은 낮아 조건부.",
+      "task": "댐-하천 디지털트윈 물관리플랫폼 유지보수",
+      "q": "소프트웨어사업자 관련 자격·대규모 운영 실적 원문 확인 필요",
+      "j": "공동이행 또는 분담이행",
+      "noticeType": "재공고",
+      "peligoodFit": "조건부",
+      "sourceURL": "https://www.modoobid.co.kr/bid/2611S01859162000/2026"
     }
   ]
 }
