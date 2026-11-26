@@ -2,7 +2,7 @@
   "updated": "2026-11-27",
   "executedAt": "2026-11-27T08:00:00+09:00",
   "counts": {
-    "newOrPromoted": 5,
+    "newOrPromoted": 4,
     "totalValid": 28,
     "bid": 23,
     "watch": 5,
@@ -61,32 +61,6 @@
       "noticeType": "본공고",
       "peligoodFit": "조건부",
       "sourceURL": "https://work.00data.kr/projects/R26BK01825212"
-    },
-    {
-      "noticeNo": "R26BK01841055-000",
-      "title": "iCADPlus를 활용한 디지털트윈 환경구축",
-      "lifecycle": "bid",
-      "d": "2026.11.30 10:00",
-      "deadlineType": "전자입찰 마감(자격등록 11/29 18:00)",
-      "amount": "6,200만원(VAT 포함), 추정가격 5,636만 3,636원",
-      "url": "https://www.gonggoitda.com/bids/R26BK01841055",
-      "urlType": "discovery",
-      "bidMethod": "제안서 필수",
-      "fitEvidence": "iCADPlus 기반 디지털트윈 환경 구축으로 3D/가상공장·디지털트윈 영역과 직접 인접.",
-      "bidMethodEvidence": "일반경쟁·협상에 의한 계약으로 확인되며 제안요청서·규격서가 존재. 기술/가격 세부 배점은 원문 재확인 필요.",
-      "t": "active",
-      "n": 1,
-      "h": 0,
-      "a": "재단법인 경북아이티융합산업기술원",
-      "source": "경북아이티융합산업기술원·나라장터",
-      "f": "조건부",
-      "why": "금액과 일정상 참여 검토 가치가 있으나 iCADPlus 구현 범위와 수행업종은 원문 확인 필요.",
-      "task": "iCADPlus 기반 디지털트윈 환경 구축",
-      "q": "업종 제한 없음으로 공개 수집됐으나 세부 수행요건 원문 확인 필요",
-      "j": "공동수급 불허",
-      "noticeType": "본공고",
-      "peligoodFit": "조건부",
-      "sourceURL": "https://www.gonggoitda.com/bids/R26BK01841055"
     },
     {
       "noticeNo": "R26BK01844814-000",
@@ -222,12 +196,6 @@
     },
     {
       "noticeNo": "R26BK01825212-000",
-      "from": "new",
-      "to": "bid",
-      "reason": "2026-11-27 independent broad search confirmed current active notice"
-    },
-    {
-      "noticeNo": "R26BK01841055-000",
       "from": "new",
       "to": "bid",
       "reason": "2026-11-27 independent broad search confirmed current active notice"
