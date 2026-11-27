@@ -297,23 +297,7 @@
       "sourceURL": "https://todayjiwon.co.kr/procurement/pre-specs/0edd39d8-627a-4054-a5e4-9b4f5831280a"
     }
   ],
-  "updates": [
-    {
-      "noticeNo": "R26BK01854479-001",
-      "type": "amendment",
-      "reason": "대구대학교 신규 홍보 영상 최신 차수 001 확인. 000을 활성로 유지하지 않고 001로 교체."
-    },
-    {
-      "noticeNo": "R26BK01856819-002",
-      "type": "amendment",
-      "reason": "영화 심판 AI 제작 최신 002차 확인. 000/001이 아닌 002만 활성 차수로 기록."
-    },
-    {
-      "noticeNo": "R26BK01862315-000",
-      "type": "re-bid",
-      "reason": "R26BK01829772-000의 마감 후 유찰 흐름을 재검색하여 11/27 신규 재공고 확인."
-    }
-  ],
+  "updates": [],
   "removedOrExcluded": [
     {
       "noticeNo": "R26BK01822551-000",
